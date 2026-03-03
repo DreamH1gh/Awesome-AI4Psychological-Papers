@@ -6,7 +6,7 @@
 
 | Dataset |  Domain  |   Size  | Link | 
 |:--------:|:--------:|:--------:| :--------:|
-| [Turkish Audio-Visual Bipolar Disorder corpus](https://ieeexplore.ieee.org/abstract/document/8470362)| Bipolar disorder | 352vedios | https://github.com/DreamH1gh/Awesome-AI4Psychological-Papers/edit/main/README.md |
+| [Turkish Audio-Visual Bipolar Disorder corpus](https://ieeexplore.ieee.org/abstract/document/8470362)| Bipolar disorder | 352 vedios | https://github.com/DreamH1gh/Awesome-AI4Psychological-Papers/edit/main/README.md |
 | [Tsanas et al.(2016)](https://pubmed.ncbi.nlm.nih.gov/27449555/) | Bipolar disorder | 130 participants | - |
 | [Chikersal et al.(2021)](https://pubmed.ncbi.nlm.nih.gov/21102431/) | Depression | 138 participants | - |
 | [Jacobson et al.(2021) ](https://pubmed.ncbi.nlm.nih.gov/35030442/) | Anxiety disorders | 32 participants | - |
