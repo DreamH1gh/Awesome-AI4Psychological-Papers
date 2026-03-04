@@ -15,18 +15,15 @@ If you find our survey useful for your research, please cite the following paper
 ## 📒 Table of Contents
 ### 🤖 Tasks
 - [AI-driven Psychological Computing Tasks](#ai-driven-psychological-computing-tasks)
-    - [Classification](#classification)
+    - [Classification & Regression](#classification--regression)
         - [PLM-based Papers](#plm-based-papers)
         - [LLM-based Papers](#llm-based-papers)
-    - [Regression](#regression)
+    - [Structured Relational](#structured-relational)
         - [PLM-based Papers](#plm-based-papers-1)
         - [LLM-based Papers](#llm-based-papers-1)
-    - [Structured Relational](#structured-relational)
+    - [Generative & Interactive](#generative--interactive)
         - [PLM-based Papers](#plm-based-papers-2)
         - [LLM-based Papers](#llm-based-papers-2)
-    - [Generative & Interactive](#generative--interactive)
-        - [PLM-based Papers](#plm-based-papers-3)
-        - [LLM-based Papers](#llm-based-papers-3)
 ### 📊 Datasets
 - [Datasets of Tasks](#datasets-of-tasks)
     - [Classification Datasets](#classification-datasets)
@@ -35,21 +32,7 @@ If you find our survey useful for your research, please cite the following paper
     - [Generative and Interactive Datasets](#generative-and-interactive-datasets)
 
 
-## Classification
-
-### PLM-based Papers
-
-| Paper | Venue | Date |
-| :----- | :--------------: | :------- |
-| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
-
-### LLM-based Papers
-
-| Paper | Venue | Date |
-| :----- | :--------------: | :------- |
-| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
-
-## Regression
+## Classification & Regression
 
 ### PLM-based Papers
 
