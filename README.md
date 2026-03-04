@@ -93,7 +93,6 @@ If you find our survey useful for your research, please cite the following paper
 
 ## Datasets of Tasks
 ### Classification Datasets
-<p align="center">
 
 | Dataset |  Domain  |   Size  | Link | 
 |:--------:|:--------:|:--------:| :--------:|
@@ -123,5 +122,4 @@ If you find our survey useful for your research, please cite the following paper
 | [StudentSADD](https://dl.acm.org/doi/10.1145/3534604) | Suicide, depression | 302 participants | [github](https://github.com/mltlachac/StudentSADD) |
 | [SLOTH](https://dl.acm.org/doi/epdf/10.1145/3643554) | Depression,anxiety | 31 participants | [github](https://github.com/mltlachac/SLOTH) |
 | [Petry et al.(2008)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2738749/) | Gambl | 180 participants | - |
-</p> 
 
