@@ -1,5 +1,15 @@
 # Awesome-AI4Psychological-Papers
 
+The organization of papers is discussed in our survey: [From Pre-trained Models to Large Language Models: A Comprehensive Survey of AI-Driven Psychological Computing](https://www.baidu.com/). 
+
+If any suggestions or mistakes, please feel free to let us know via email at **chenhy1018@gmail.com**. We appreciate your feedback and help in improving our work.
+
+If you find our survey useful for your research, please cite the following paper:
+
+    @article{
+    }
+
+    
 ## Datasets of Tasks
 ### Classification Datasets
 <p align="center">
