@@ -35,16 +35,61 @@ If you find our survey useful for your research, please cite the following paper
     - [Generative and Interactive Datasets](#generative-and-interactive-datasets)
 
 
-# AI-driven psychological computing tasks 
-This taxonomy organizes AI-driven psychology tasks by their computational processing patterns.
-## Classification tasks
-### Mental State Recognition
-|  Paper  |      Venue    |   Date  | Code |
-| :----- | :--------------: | :------- | :---------: |
-|  [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/)  |   EMNLP Findings      |  2023-12   | [GitHub](https://github.com/yanlinf/CASENT) |
-|  [Generative Entity Typing with Curriculum Learning](https://arxiv.org/abs/2210.02914)  |   EMNLP       |  2022-12   | [GitHub](https://github.com/siyuyuan/GET) |
+### Classification
 
+#### PLM-based Papers
 
+| Paper | Venue | Date |
+| :----- | :--------------: | :------- |
+| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
+
+#### LLM-based Papers
+
+| Paper | Venue | Date |
+| :----- | :--------------: | :------- |
+| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
+
+### Regression
+
+#### PLM-based Papers
+
+| Paper | Venue | Date |
+| :----- | :--------------: | :------- |
+| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
+
+#### LLM-based Papers
+
+| Paper | Venue | Date |
+| :----- | :--------------: | :------- |
+| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
+
+### Structured Relational
+
+#### PLM-based Papers
+
+| Paper | Venue | Date |
+| :----- | :--------------: | :------- |
+| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
+
+#### LLM-based Papers
+
+| Paper | Venue | Date |
+| :----- | :--------------: | :------- |
+| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
+
+### Generative & Interactive
+
+#### PLM-based Papers
+
+| Paper | Venue | Date |
+| :----- | :--------------: | :------- |
+| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
+
+#### LLM-based Papers
+
+| Paper | Venue | Date |
+| :----- | :--------------: | :------- |
+| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
 
 # Datasets of Tasks
 ## Classification Datasets
@@ -80,12 +125,3 @@ This taxonomy organizes AI-driven psychology tasks by their computational proces
 | [Petry et al.(2008)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2738749/) | Gambl | 180 participants | - |
 </p> 
 
-
-# AI-driven psychological computing methods
-This section examines computational approaches for AI-driven psychological tasks across two methodological paradigms: PLM-based methods and LLM-based methods.
-## Methods for Classification Tasks
-### Mental State Recognition
-|  Paper  |      Venue    |   Date  | Code |
-| :----- | :--------------: | :------- | :---------: |
-|  [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/)  |   EMNLP Findings      |  2023-12   | [GitHub](https://github.com/yanlinf/CASENT) |
-|  [Generative Entity Typing with Curriculum Learning](https://arxiv.org/abs/2210.02914)  |   EMNLP       |  2022-12   | [GitHub](https://github.com/siyuyuan/GET) |
