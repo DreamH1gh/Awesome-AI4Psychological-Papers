@@ -54,12 +54,10 @@ If you find our survey useful for your research, please cite the following paper
 This taxonomy organizes AI-driven psychology tasks by their computational processing patterns.
 ## Classification tasks
 ### Mental State Recognition
-<p align="center">
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
 |  [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/)  |   EMNLP Findings      |  2023-12   | [GitHub](https://github.com/yanlinf/CASENT) |
 |  [Generative Entity Typing with Curriculum Learning](https://arxiv.org/abs/2210.02914)  |   EMNLP       |  2022-12   | [GitHub](https://github.com/siyuyuan/GET) |
-</p> 
 
 
 
@@ -102,9 +100,7 @@ This taxonomy organizes AI-driven psychology tasks by their computational proces
 This section examines computational approaches for AI-driven psychological tasks across two methodological paradigms: PLM-based methods and LLM-based methods.
 ## Methods for Classification Tasks
 ### Mental State Recognition
-<p align="center">
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
 |  [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/)  |   EMNLP Findings      |  2023-12   | [GitHub](https://github.com/yanlinf/CASENT) |
 |  [Generative Entity Typing with Curriculum Learning](https://arxiv.org/abs/2210.02914)  |   EMNLP       |  2022-12   | [GitHub](https://github.com/siyuyuan/GET) |
-</p> 
