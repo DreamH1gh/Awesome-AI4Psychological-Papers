@@ -31,9 +31,10 @@ If you find our survey useful for your research, please cite the following paper
     - [Structured Relational Datasets](#structured-relational-datasets)
     - [Generative and Interactive Datasets](#generative-and-interactive-datasets)
 
+# AI-driven Psychological Computing Tasks
 
 ## Classification & Regression
-
+Classification and regression tasks in psychological computing share common encoding architectures but differ in their output formulations. Classification tasks map inputs to discrete psychological categories through softmax layers, while regression tasks predict continuous severity scores or trait measurements through linear output layers. Both benefit from similar feature extraction strategies and domain adaptation techniques.
 ### PLM-based Papers
 
 | Paper | Venue | Date |
