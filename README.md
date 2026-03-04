@@ -39,7 +39,25 @@ Classification and regression tasks in psychological computing share common enco
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
-| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
+| [Latent suicide risk detection on microblog via suicide-oriented word embeddings and layered attention](https://aclanthology.org/D19-1181/) | EMNLP &#124; IJCNLP | 2019-11 |
+| [Personality Trait Detection Using Bagged SVM over BERT Word Embedding Ensembles](https://arxiv.org/abs/2010.01309) | arXiv | 2020-10 |
+| [Depressionnet: A novel summarization boosted deep framework for depression detection on social media](https://arxiv.org/abs/2105.10878) | arXiv | 2021-05 |
+| [Classification of mental illnesses on social media using RoBERTa](https://aclanthology.org/2021.louhi-1.7/) | Louhi | 2021-04 |
+| [Towards automatic text-based estimation of depression through symptom prediction](https://link.springer.com/article/10.1186/s40708-023-00185-9) | Brain Informatics | 2023-02 |
+| [Personality Prediction from Life Stories using Language Models](https://arxiv.org/abs/2506.19258) | arXiv | 2025-06 |
+| [Using a fine-tuned large language model for symptom-based depression evaluation](https://www.nature.com/articles/s41746-025-01982-8) | npj Digital Medicine | 2025-10 |
+| [Clinicalbert: Modeling clinical notes and predicting hospital readmission](https://arxiv.org/abs/1904.05342) | arXiv | 2019-04 |
+| [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) | Bioinformatics | 2019-09 |
+| [PsychBERT: a mental health language model for social media mental health behavioral analysis](https://ieeexplore.ieee.org/document/9669469) | BIBM | 2021-12 |
+| [MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare](https://aclanthology.org/2022.lrec-1.778/) | LREC | 2022-06 |
+| [CASE: Efficient Curricular Data Pre-training for Building Assistive Psychology Expert Models](https://aclanthology.org/2024.findings-emnlp.925/) | EMNLP Findings | 2024-11 |
+| [Multi-task Learning with Pre-trained Language Models for Mental Illness Screening](https://ieeexplore.ieee.org/abstract/document/10825698) | BigData | 2024-12 |
+| [Multi task opinion enhanced hybrid BERT model for mental health analysis](https://www.nature.com/articles/s41598-025-86124-6) | Scientific Reports | 2025-01 |
+| [Data Augmentation for Mental Health Classification on Social Media](https://aclanthology.org/2021.icon-main.19/) | ICON | 2021-12 |
+| [Multimodal Fusion of BERT-CNN and Gated CNN Representations for Depression Detection](https://dl.acm.org/doi/abs/10.1145/3347320.3357694) | AVEC'19 | 2019-10 |
+| [Multi-Modal and Multi-Task Depression Detection with Sentiment Assistance](https://ieeexplore.ieee.org/abstract/document/10444213) | ICCE | 2024-01 |
+| [Temporal Multimodal Multitask Attention for Affective State Estimation in a Stressful Environment](https://ieeexplore.ieee.org/document/11195200) | TAFFC | 2025-10 |
+
 
 ### LLM-based Papers
 
