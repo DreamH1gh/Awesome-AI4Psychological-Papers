@@ -35,64 +35,64 @@ If you find our survey useful for your research, please cite the following paper
     - [Generative and Interactive Datasets](#generative-and-interactive-datasets)
 
 
-### Classification
+## Classification
 
-#### PLM-based Papers
-
-| Paper | Venue | Date |
-| :----- | :--------------: | :------- |
-| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
-
-#### LLM-based Papers
+### PLM-based Papers
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
 | [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
 
-### Regression
-
-#### PLM-based Papers
+### LLM-based Papers
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
 | [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
 
-#### LLM-based Papers
+## Regression
+
+### PLM-based Papers
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
 | [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
 
-### Structured Relational
-
-#### PLM-based Papers
+### LLM-based Papers
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
 | [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
 
-#### LLM-based Papers
+## Structured Relational
+
+### PLM-based Papers
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
 | [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
 
-### Generative & Interactive
-
-#### PLM-based Papers
+### LLM-based Papers
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
 | [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
 
-#### LLM-based Papers
+## Generative & Interactive
+
+### PLM-based Papers
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
 | [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
 
-# Datasets of Tasks
-## Classification Datasets
+### LLM-based Papers
+
+| Paper | Venue | Date |
+| :----- | :--------------: | :------- |
+| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
+
+## Datasets of Tasks
+### Classification Datasets
 <p align="center">
 
 | Dataset |  Domain  |   Size  | Link | 
