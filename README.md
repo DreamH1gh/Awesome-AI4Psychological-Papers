@@ -54,6 +54,7 @@ If you find our survey useful for your research, please cite the following paper
 # AI-driven psychological computing tasks 
 This taxonomy organizes AI-driven psychology tasks by their computational processing patterns.
 ## Classification tasks
+### Mental State Recognition
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
 |  [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/)  |   EMNLP Findings      |  2023-12   | [GitHub](https://github.com/yanlinf/CASENT) |
