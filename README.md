@@ -38,11 +38,10 @@ If you find our survey useful for your research, please cite the following paper
         - [LLM-based Methods](#llm-based-methods-for-generative-and-interactive)
 
 
-# Information Extraction tasks
-A taxonomy by various tasks.
-## Named Entity Recognition 
-Models targeting only ner tasks.
-### Entity Typing
+
+## AI-driven psychological computing tasks 
+This taxonomy organizes AI-driven psychology tasks by their computational processing patterns.
+### Classification tasks
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
 |  [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/)  |   EMNLP Findings      |  2023-12   | [GitHub](https://github.com/yanlinf/CASENT) |
