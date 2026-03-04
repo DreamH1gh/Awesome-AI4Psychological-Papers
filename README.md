@@ -28,5 +28,8 @@
 | [SMHD](https://aclanthology.org/C18-1126/) | Multi-disease | 20,406 participants | [html](https://ir.cs.georgetown.edu/resources/smhd.html) |
 | [Nikhileswar et al.](https://ieeexplore.ieee.org/document/9591887)| Suicide, depression | 232k posts| [kaggle](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch) | 
 | [DAIC](http://www.lrec-conf.org/proceedings/lrec2014/pdf/508_Paper.pdf) | Distress | 621 interviews | [html](https://dcapswoz.ict.usc.edu/) |
-| [GLOBEM](https://physionet.org/content/globem/1.1/) | Dpression, anxiety | 705 participants  | [html](https://the-globem.github.io/datasets/overview) |
+| [GLOBEM](https://physionet.org/content/globem/1.1/) | Depression, anxiety | 705 participants  | [html](https://the-globem.github.io/datasets/overview) |
+| [StudentSADD](https://dl.acm.org/doi/10.1145/3534604) | Suicide, depression | 302 participants | [github](https://github.com/mltlachac/StudentSADD) |
+| [SLOTH](https://dl.acm.org/doi/epdf/10.1145/3643554) | Depression,anxiety | 31 participants | [github](https://github.com/mltlachac/SLOTH) |
+| [Petry et al.](https://pmc.ncbi.nlm.nih.gov/articles/PMC2738749/) | Gambl | 180 participants | - |
 </p> 
