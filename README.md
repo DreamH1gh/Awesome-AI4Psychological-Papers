@@ -36,7 +36,21 @@ If you find our survey useful for your research, please cite the following paper
     - [Methods for Generative and Interactive Tasks](#methods-for-generative-and-interactive-tasks)
         - [PLM-based Methods](#plm-based-methods-for-generative-and-interactive)
         - [LLM-based Methods](#llm-based-methods-for-generative-and-interactive)
-    
+
+
+# Information Extraction tasks
+A taxonomy by various tasks.
+## Named Entity Recognition 
+Models targeting only ner tasks.
+### Entity Typing
+|  Paper  |      Venue    |   Date  | Code |
+| :----- | :--------------: | :------- | :---------: |
+|  [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/)  |   EMNLP Findings      |  2023-12   | [GitHub](https://github.com/yanlinf/CASENT) |
+|  [Generative Entity Typing with Curriculum Learning](https://arxiv.org/abs/2210.02914)  |   EMNLP       |  2022-12   | [GitHub](https://github.com/siyuyuan/GET) |
+### Entity Identification & Typing 
+
+
+
 ## Datasets of Tasks
 ### Classification Datasets
 <p align="center">
