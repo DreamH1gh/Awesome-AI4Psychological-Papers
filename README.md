@@ -13,7 +13,11 @@ If you find our survey useful for your research, please cite the following paper
     }
 
 ## 📒 Table of Contents
-### 🧠 Tasks
+
+
+---
+
+### 🧠 Task Taxonomy
 - [AI-driven psychological computing tasks](#ai-driven-psychological-computing-tasks)
     - [Classification tasks](#classification-tasks)
         - [Mental State Recognition](#mental-state-recognition)
@@ -28,38 +32,48 @@ If you find our survey useful for your research, please cite the following paper
         - [Personalized Content Generation](#personalized-content-generation)
         - [Psychological Service Interaction](#psychological-service-interaction)
         - [Psychological Educational Interaction](#psychological-educational-interaction)
-### 📊 Datasets
+
+---
+
+### 📊 Benchmark Datasets
 - [Datasets of Tasks](#datasets-of-tasks)
     - [Classification Datasets](#classification-datasets)
     - [Regression Datasets](#regression-datasets)
     - [Structured Relational Datasets](#structured-relational-datasets)
     - [Generative and Interactive Datasets](#generative-and-interactive-datasets)
-### 🤖 Methods
-- [AI-driven psychological computing methods](#ai-driven-psychological-computing-methods)
-    - [Methods for Classification Tasks](#methods-for-classification-tasks)
-        - [PLM-based Methods](#plm-based-methods-for-classification)
-        - [LLM-based Methods](#llm-based-methods-for-classification)
-    - [Methods for Regression Tasks](#methods-for-regression-tasks)
-        - [PLM-based Methods](#plm-based-methods-for-regression)
-        - [LLM-based Methods](#llm-based-methods-for-regression)
-    - [Methods for Structured Relational Tasks](#methods-for-structured-relational-tasks)
-        - [PLM-based Methods](#plm-based-methods-for-structured-relational)
-        - [LLM-based Methods](#llm-based-methods-for-structured-relational)
-    - [Methods for Generative and Interactive Tasks](#methods-for-generative-and-interactive-tasks)
-        - [PLM-based Methods](#plm-based-methods-for-generative-and-interactive)
-        - [LLM-based Methods](#llm-based-methods-for-generative-and-interactive)
 
+---
+
+### 🤖 Modeling Methods
+- [AI-driven psychological computing methods](#ai-driven-psychological-computing-methods)
+
+    - [Methods for Classification Tasks](#methods-for-classification-tasks)
+        - [PLM-based Methods for Classification](#plm-based-methods-for-classification)
+        - [LLM-based Methods for Classification](#llm-based-methods-for-classification)
+
+    - [Methods for Regression Tasks](#methods-for-regression-tasks)
+        - [PLM-based Methods for Regression](#plm-based-methods-for-regression)
+        - [LLM-based Methods for Regression](#llm-based-methods-for-regression)
+
+    - [Methods for Structured Relational Tasks](#methods-for-structured-relational-tasks)
+        - [PLM-based Methods for Structured Relational](#plm-based-methods-for-structured-relational)
+        - [LLM-based Methods for Structured Relational](#llm-based-methods-for-structured-relational)
+
+    - [Methods for Generative and Interactive Tasks](#methods-for-generative-and-interactive-tasks)
+        - [PLM-based Methods for Generative and Interactive](#plm-based-methods-for-generative-and-interactive)
+        - [LLM-based Methods for Generative and Interactive](#llm-based-methods-for-generative-and-interactive)
 
 
 # AI-driven psychological computing tasks 
 This taxonomy organizes AI-driven psychology tasks by their computational processing patterns.
 ## Classification tasks
 ### Mental State Recognition
+<p align="center">
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
 |  [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/)  |   EMNLP Findings      |  2023-12   | [GitHub](https://github.com/yanlinf/CASENT) |
 |  [Generative Entity Typing with Curriculum Learning](https://arxiv.org/abs/2210.02914)  |   EMNLP       |  2022-12   | [GitHub](https://github.com/siyuyuan/GET) |
-
+</p> 
 
 
 
@@ -95,4 +109,16 @@ This taxonomy organizes AI-driven psychology tasks by their computational proces
 | [StudentSADD](https://dl.acm.org/doi/10.1145/3534604) | Suicide, depression | 302 participants | [github](https://github.com/mltlachac/StudentSADD) |
 | [SLOTH](https://dl.acm.org/doi/epdf/10.1145/3643554) | Depression,anxiety | 31 participants | [github](https://github.com/mltlachac/SLOTH) |
 | [Petry et al.](https://pmc.ncbi.nlm.nih.gov/articles/PMC2738749/) | Gambl | 180 participants | - |
+</p> 
+
+
+# AI-driven psychological computing methods
+This section examines computational approaches for AI-driven psychological tasks across two methodological paradigms: PLM-based methods and LLM-based methods.
+## Methods for Classification Tasks
+### Mental State Recognition
+<p align="center">
+|  Paper  |      Venue    |   Date  | Code |
+| :----- | :--------------: | :------- | :---------: |
+|  [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/)  |   EMNLP Findings      |  2023-12   | [GitHub](https://github.com/yanlinf/CASENT) |
+|  [Generative Entity Typing with Curriculum Learning](https://arxiv.org/abs/2210.02914)  |   EMNLP       |  2022-12   | [GitHub](https://github.com/siyuyuan/GET) |
 </p> 
