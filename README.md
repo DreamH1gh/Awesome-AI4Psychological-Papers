@@ -3,6 +3,8 @@
 The organization of papers is discussed in our survey: <br>
 [From Pre-trained Models to Large Language Models: A Comprehensive Survey of AI-Driven Psychological Computing](https://www.baidu.com/). 
 
+If you find any relevant academic papers that have not been included in our research, please submit a request for an update. We welcome contributions from everyone.
+
 If any suggestions or mistakes, please feel free to let us know via email at **chenhy1018@gmail.com**. We appreciate your feedback and help in improving our work.
 
 If you find our survey useful for your research, please cite the following paper:
@@ -10,6 +12,30 @@ If you find our survey useful for your research, please cite the following paper
     @article{
     }
 
+## 📒 Table of Contents
+- [AI-driven psychological computing tasks](#ai-driven-psychological-computing-tasks)
+    - [Classification tasks](#classification-tasks)
+    - [Regression tasks](#regression-tasks)
+    - [Structured Relational tasks](#structured-relational-tasks)
+    - [Generative and Interactive tasks](#generative-and-interactive-tasks)
+- [Datasets of Tasks](#datasets-of-tasks)
+    - [Classification Datasets](#classification-datasets)
+    - [Regression Datasets](#regression-datasets)
+    - [Structured Relational Datasets](#structured-relational-datasets)
+    - [Generative and Interactive Datasets](#generative-and-interactive-datasets)
+- [AI-driven psychological computing methods](#ai-driven-psychological-computing-methods)
+    - [Methods for Classification Tasks](#methods-for-classification-tasks)
+        - [Methods based on Pre-trained Language Models (PLM)](#methods-based-on-pre-trained-language-models-plm)
+        - [Methods based on Large Language Models (LLM)](#methods-based-on-large-language-models-llm)
+    - [Methods for Regression Tasks](#methods-for-regression-tasks)
+        - [Methods based on Pre-trained Language Models (PLM)](#methods-based-on-pre-trained-language-models-plm-1)
+        - [Methods based on Large Language Models (LLM)](#methods-based-on-large-language-models-llm-1)
+    - [Methods for Structured Relational Tasks](#methods-for-structured-relational-tasks)
+        - [Methods based on Pre-trained Language Models (PLM)](#methods-based-on-pre-trained-language-models-plm-2)
+        - [Methods based on Large Language Models (LLM)](#methods-based-on-large-language-models-llm-2)
+    - [Methods for Generative and Interactive Tasks](#methods-for-generative-and-interactive-tasks)
+        - [Methods based on Pre-trained Language Models (PLM)](#methods-based-on-pre-trained-language-models-plm-3)
+        - [Methods based on Large Language Models (LLM)](#methods-based-on-large-language-models-llm-3)
     
 ## Datasets of Tasks
 ### Classification Datasets
