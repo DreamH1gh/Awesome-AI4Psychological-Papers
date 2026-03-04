@@ -104,6 +104,15 @@ Classification and regression tasks in psychological computing share common enco
 | [DAIC](http://www.lrec-conf.org/proceedings/lrec2014/pdf/508_Paper.pdf) | Distress | 621 interviews | [html](https://dcapswoz.ict.usc.edu/) |
 | [GLOBEM](https://physionet.org/content/globem/1.1/) | Depression, anxiety | 705 participants  | [html](https://the-globem.github.io/datasets/overview) |
 | [StudentSADD](https://dl.acm.org/doi/10.1145/3534604) | Suicide, depression | 302 participants | [github](https://github.com/mltlachac/StudentSADD) |
+| [Gaur et al.(2019)](https://dl.acm.org/doi/10.1145/3308558.3313698) | Suicide | 500 participants | [github](https://github.com/manasgaur/Knowledge-aware-Assessment-of-Severity-of-Suicide-Risk-for-Early-Intervention) |
 | [SLOTH](https://dl.acm.org/doi/epdf/10.1145/3643554) | Depression,anxiety | 31 participants | [github](https://github.com/mltlachac/SLOTH) |
 | [Petry et al.(2008)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2738749/) | Gambl | 180 participants | - |
+| [CLPsych 2016](https://aclanthology.org/W16-0312/) | Post Severity | 1,227 posts | [github](https://github.com/IKBLab/CLPsych2016) |
+| [Thomas et al.(2001)](https://www.sciencedirect.com/science/article/pii/S0920996400001092#aep-section-id11) | Social skills | 135 participants | - |
+| [Gong et al.(2019)](https://www.sciencedirect.com/science/article/pii/S1566253517307352) | Social anxiety | 52 participants | - |
+| [Özpolat et al.(2009)](https://www.sciencedirect.com/science/article/pii/S036013150900061X#sec4) | Learning style | 40 participants | - |
+| [Crockett et al.(2017)](https://www.sciencedirect.com/science/article/pii/S107158191630091X) | Learning style | 75 participants | - |
+| [Lo et al.(2004)](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/j.1467-8535.2005.00437.x) | Learning style | 121 participants | - |
+| [García et al.(2007)](https://www.sciencedirect.com/science/article/abs/pii/S0360131505001788) | Learning style | 27 participants | - |
+| [Wu et al.(2008)](https://www.sciencedirect.com/science/article/abs/pii/S0957417407000619?via%3Dihub)| Learning disabilities | 284 participants | - |
 
