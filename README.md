@@ -13,6 +13,7 @@ If you find our survey useful for your research, please cite the following paper
     }
 
 ## 📒 Table of Contents
+### 🧠 Tasks
 - [AI-driven psychological computing tasks](#ai-driven-psychological-computing-tasks)
     - [Classification tasks](#classification-tasks)
         - [Mental State Recognition](#mental-state-recognition)
@@ -27,11 +28,13 @@ If you find our survey useful for your research, please cite the following paper
         - [Personalized Content Generation](#personalized-content-generation)
         - [Psychological Service Interaction](#psychological-service-interaction)
         - [Psychological Educational Interaction](#psychological-educational-interaction)
+### 📊 Datasets
 - [Datasets of Tasks](#datasets-of-tasks)
     - [Classification Datasets](#classification-datasets)
     - [Regression Datasets](#regression-datasets)
     - [Structured Relational Datasets](#structured-relational-datasets)
     - [Generative and Interactive Datasets](#generative-and-interactive-datasets)
+### 🤖 Methods
 - [AI-driven psychological computing methods](#ai-driven-psychological-computing-methods)
     - [Methods for Classification Tasks](#methods-for-classification-tasks)
         - [PLM-based Methods](#plm-based-methods-for-classification)
