@@ -71,7 +71,11 @@ Classification and regression tasks in psychological computing share common enco
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
-| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
+| [Psycholinguistic Tripartite Graph Network for Personality Detection](https://aclanthology.org/2021.acl-long.326/) | ACL &#124; IJCNLP | 2021-08 |
+| [Orders Are Unwanted: Dynamic Deep Graph Convolutional Network for Personality Detection](https://ojs.aaai.org/index.php/AAAI/article/view/26627) | AAAI | 2023-06 |
+| [Building High-quality Psychology Knowledge Graphs from Text using REBEL](https://eudl.eu/doi/10.4108/eai.29-3-2024.2347315) | ICBBEM | 2024-06 |
+| [KG-BERT: BERT for knowledge graph completion](https://arxiv.org/abs/1909.03193) | arXiv | 2019-09 |
+| [A Painting Psychoanalysis Method Based on Image Caption and Knowledge Graph Reasoning](https://ieeexplore.ieee.org/document/11178550) | CCC | 2025-07 |
 
 ### LLM-based Papers
 
@@ -85,7 +89,16 @@ Classification and regression tasks in psychological computing share common enco
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
-| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
+| [Mental health question and answering system based on Bert model and knowledge graph technology](https://dl.acm.org/doi/10.1145/3500931.3501011) | ISAIMS | 2021-12 |
+| [Knowledge Enhanced Reflection Generation for Counseling Dialogues](https://aclanthology.org/2022.acl-long.221/) | ACL | 2022-05 |
+| [GREEN: Generative Retrieval-Enhanced Emotional Support Conversations](https://journals.sagepub.com/doi/10.1177/21582440251395922) | Sage Open | 2025-11 |
+| [EmpBot: A T5-based Empathetic Chatbot focusing on Sentiments](https://arxiv.org/abs/2111.00310) | arXiv | 2021-10 |
+| [Conversational Bots for Psychotherapy: A Study of Generative Transformer Models Using Domain-specific Dialogues](https://aclanthology.org/2022.bionlp-1.27/) | BioNLP | 2022-05 |
+| [Improving mental health support response generation with event-based knowledge graph](https://knowledge-nlp.github.io/aaai2023/papers/006-MHKG-oral.pdf) | psychotherapy | 2023-02 |
+| [Artificial Intelligence in Mental Health Care: The T5 Chatbot Project](https://arxiv.org/abs/1909.03193) | SNAMS | 2024-12 |
+| [Towards Persona-Based Empathetic Conversational Models](https://aclanthology.org/2020.emnlp-main.531/) | EMNLP | 2020-11 |
+| [PAL: Persona-Augmented Emotional Support Conversation Generation](https://aclanthology.org/2023.findings-acl.34/) | ACL Findings | 2023-07 |
+| [A Multimodal Affective Interaction Architecture Integrating BERT-Based Semantic Understanding and VITS-Based Emotional Speech Synthesis](https://www.mdpi.com/1999-4893/18/8/513) | Algorithms | 2025-08 |
 
 ### LLM-based Papers
 
