@@ -114,7 +114,23 @@ Classification and regression tasks in psychological computing share common enco
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
-| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
+| [Modeling Network Formation with LLM Agents: The Role of Demographics and Personality](https://www.cse.uoi.gr/~tsap/publications/AI4CSS-ICDM-2025.pdf) | AI4CSS-ICDM Workshop | 2025-11 |
+| [Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties](https://arxiv.org/abs/2510.19299) | arXiv | 2025-10 |
+| [Cognitive networks highlight differences and similarities in the STEM mindsets of human and LLM-simulated trainees, experts and academics](https://arxiv.org/abs/2502.19529) | arXiv | 2025-02 |
+| [Feature Activated Dual-Perspective Heterogeneous Network for User Psychological Profiling Analysis](https://ieeexplore.ieee.org/document/11201176) | ISI | 2025-07 |
+| [NetworkGames: Simulating Cooperation in Network Games with Personality-driven LLM Agents](https://arxiv.org/abs/2511.21783) | arXiv | 2025-11 |
+| [AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts](https://arxiv.org/abs/2404.11449) | arXiv | 2024-04 |
+| [Psychological Counseling with Integration of Knowledge Graph and Multi-Agent Collaboration](https://link.springer.com/article/10.1007/s12204-024-2785-1) | Others | 2024-12 |
+| [LLM-Based Prior Elicitation for Bayesian Graphical Modeling](https://osf.io/preprints/psyarxiv/k2twq_v1) | PsyArXiv | 2025-09 |
+| [Automating psychological hypothesis generation with AI: when large language models meet causal graph](https://arxiv.org/abs/1909.03193) | Humanit Soc Sci Commun | 2024-07 |
+| [Deconstructing Depression Stigma: Integrating AI-driven Data Collection and Analysis with Causal Knowledge Graphs](https://dl.acm.org/doi/10.1145/3706598.3714255) | CHI | 2025-04 |
+| [Large language model powered knowledge graph construction for mental health exploration](https://www.nature.com/articles/s41467-025-62781-z) | nature communications | 2025-08 |
+| [EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs](https://arxiv.org/abs/2506.13641) | arXiv | 2025-06 |
+| [RELATE-Sim: Leveraging Turning Point Theory and LLM Agents to Predict and Understand Long-Term Relationship Dynamics through Interactive Narrative Simulations](https://arxiv.org/abs/2510.00414) | arXiv | 2025-10 |
+| [Teaching According to Students' Aptitude: Personalized Mathematics Tutoring via Persona-, Memory-, and Forgetting-Aware LLMs](https://arxiv.org/abs/2511.15163) | arXiv | 2025-11 |
+| [Personality-guided Public-Private Domain Disentangled Hypergraph-Former Network for Multimodal Depression Detection](https://arxiv.org/abs/2511.12460) | AAAI | 2025-11 |
+| [Reasoning Like Experts: Leveraging Multimodal Large Language Models for Drawing-based Psychoanalysis](https://dl.acm.org/doi/10.1145/3746027.3755744) | MM | 2025-10 |
+| [Teaching According to Students' Aptitude: Personalized Mathematics Tutoring via Persona-, Memory-, and Forgetting-Aware LLMs](https://arxiv.org/abs/2511.15163) | AAAI Workshop | 2025-11 |
 
 ## Generative & Interactive
 
