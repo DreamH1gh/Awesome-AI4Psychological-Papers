@@ -65,21 +65,21 @@ Classification and regression tasks in psychological computing share common enco
 | :----- | :--------------: | :------- |
 | [Validating the use of large language models for psychological text classification](https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1460277/full) | Frontiers in Social Psychology | 2025-02 |
 | [Assessing the accuracy and consistency of large language models in triaging social media posts for psychological distress](https://www.sciencedirect.com/science/article/pii/S0165178125002318) | Psychiatry Research | 2025-09 |
-| [Leveraging large language models for automated depression screening](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000943) | PLOS | 2025-07 |
+| [Leveraging large language models for automated depression screening](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000943) | PLOS Digital Health | 2025-07 |
 | [Systematic Evaluation of GPT-3 for Zero-Shot Personality Estimation](https://aclanthology.org/2023.wassa-1.34/) | WASSA | 2023-07 |
 | [Large language models can infer psychological dispositions of social media users](https://academic.oup.com/pnasnexus/article/3/6/pgae231/7692212?login=false) | PNAS nexus | 2024-06 |
 | [Large language models can infer personality from free-form user interactions](https://arxiv.org/abs/2405.13052) | arXiv | 2024-05 |
 | [Investigating Large Language Models in Inferring Personality Traits from User Conversations](https://arxiv.org/abs/2501.07532) | arXiv | 2025-01 |
-| [Decoding substance use disorder severity from clinical notes using a large language model](https://www.nature.com/articles/s44184-024-00114-6) | npj | 2025-02 |
+| [Decoding substance use disorder severity from clinical notes using a large language model](https://www.nature.com/articles/s44184-024-00114-6) | npj mental health research | 2025-02 |
 | [GPT-4 shows potential for identifying social anxiety from clinical interview data](https://www.nature.com/articles/s41598-024-82192-2) | Scientific Reports | 2024-12 |
 | [LlaMADRS: Prompting Large Language Models for Interview-Based Depression Assessment](https://arxiv.org/abs/2501.03624) | arXiv | 2025-01 |
 | [Cognitive-Mental-LLM: Evaluating Reasoning in Large Language Models for Mental Health Prediction via Online Text](https://arxiv.org/abs/2503.10095) | arXiv | 2026-01 |
-| [ExDoRA: enhancing the transferability of large language models for depression detection using free-text explanations](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1564828/full) | Frontiers | 2025-05 |
+| [ExDoRA: enhancing the transferability of large language models for depression detection using free-text explanations](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1564828/full) | Frontiers in Artificial Intelligence | 2025-05 |
 | [Cascade Large Language Model via In-Context Learning for Depression Detection on Chinese Social Media](https://link.springer.com/chapter/10.1007/978-981-97-8487-5_25) | PRCV | 2024-11 |
 | [XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare](https://arxiv.org/abs/2405.06270) | arXiv | 2025-07 |
 | [Large language model performance versus human expert ratings in automated suicide risk assessment](https://arxiv.org/abs/1909.03193) | Scientific Reports | 2025-11 |
 | [Leveraging Large Language Models for Digital Phenotyping: Detecting Depressive State Changes for Patients with Depressive Episodes](https://www.medrxiv.org/content/10.1101/2025.05.10.25327354v1.full.pdf) | medRxiv | 2025-05 |
-| [Detecting neuropsychiatric fluctuations in Parkinson’s Disease using patients’ own words: the potential of large language models](https://www.nature.com/articles/s41531-025-00939-8) | npj | 2025-04 |
+| [Detecting neuropsychiatric fluctuations in Parkinson’s Disease using patients’ own words: the potential of large language models](https://www.nature.com/articles/s41531-025-00939-8) | npj parkinson's disease | 2025-04 |
 | [Advancing Mental Health Pre-Screening: A New Custom GPT for Psychological Distress Assessment](https://ieeexplore.ieee.org/document/10835572) | CogMI | 2024-10 |
 | [Explainable and Interactive LLMs-Augmented Depression Detection in Social Media](https://ieeexplore.ieee.org/abstract/document/11142667) | TCSS | 2025-08 |
 | [Zero-shot Explainable Mental Health Analysis on Social Media by Incorporating Mental Scales](https://dl.acm.org/doi/10.1145/3589335.3651584) | WWW | 2024-05 |
@@ -124,7 +124,7 @@ Classification and regression tasks in psychological computing share common enco
 | [LLM-Based Prior Elicitation for Bayesian Graphical Modeling](https://osf.io/preprints/psyarxiv/k2twq_v1) | PsyArXiv | 2025-09 |
 | [Automating psychological hypothesis generation with AI: when large language models meet causal graph](https://arxiv.org/abs/1909.03193) | Humanit Soc Sci Commun | 2024-07 |
 | [Deconstructing Depression Stigma: Integrating AI-driven Data Collection and Analysis with Causal Knowledge Graphs](https://dl.acm.org/doi/10.1145/3706598.3714255) | CHI | 2025-04 |
-| [Large language model powered knowledge graph construction for mental health exploration](https://www.nature.com/articles/s41467-025-62781-z) | nature communications | 2025-08 |
+| [Large language model powered knowledge graph construction for mental health exploration](https://www.nature.com/articles/s41467-025-62781-z) | Nature Communications | 2025-08 |
 | [EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs](https://arxiv.org/abs/2506.13641) | arXiv | 2025-06 |
 | [RELATE-Sim: Leveraging Turning Point Theory and LLM Agents to Predict and Understand Long-Term Relationship Dynamics through Interactive Narrative Simulations](https://arxiv.org/abs/2510.00414) | arXiv | 2025-10 |
 | [Teaching According to Students' Aptitude: Personalized Mathematics Tutoring via Persona-, Memory-, and Forgetting-Aware LLMs](https://arxiv.org/abs/2511.15163) | arXiv | 2025-11 |
