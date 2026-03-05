@@ -130,11 +130,11 @@ Classification and regression tasks in psychological computing share common enco
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
-| [Psycholinguistic Tripartite Graph Network for Personality Detection](https://aclanthology.org/2021.acl-long.326/) | ACL &#124; IJCNLP | 2021-08 |
-| [Orders Are Unwanted: Dynamic Deep Graph Convolutional Network for Personality Detection](https://ojs.aaai.org/index.php/AAAI/article/view/26627) | AAAI | 2023-06 |
-| [Building High-quality Psychology Knowledge Graphs from Text using REBEL](https://eudl.eu/doi/10.4108/eai.29-3-2024.2347315) | ICBBEM | 2024-06 |
-| [KG-BERT: BERT for knowledge graph completion](https://arxiv.org/abs/1909.03193) | arXiv | 2019-09 |
 | [A Painting Psychoanalysis Method Based on Image Caption and Knowledge Graph Reasoning](https://ieeexplore.ieee.org/document/11178550) | CCC | 2025-07 |
+| [Building High-quality Psychology Knowledge Graphs from Text using REBEL](https://eudl.eu/doi/10.4108/eai.29-3-2024.2347315) | ICBBEM | 2024-06 |
+| [Orders Are Unwanted: Dynamic Deep Graph Convolutional Network for Personality Detection](https://ojs.aaai.org/index.php/AAAI/article/view/26627) | AAAI | 2023-06 |
+| [Psycholinguistic Tripartite Graph Network for Personality Detection](https://aclanthology.org/2021.acl-long.326/) | ACL &#124; IJCNLP | 2021-08 |
+| [KG-BERT: BERT for knowledge graph completion](https://arxiv.org/abs/1909.03193) | arXiv | 2019-09 |
 
 ### LLM-based Papers
 
