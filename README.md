@@ -63,7 +63,7 @@ Classification and regression tasks in psychological computing share common enco
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
-| [Validating the use of large language models for psychological text classification](https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1460277/full) | Frontiers | 2025-02 |
+| [Validating the use of large language models for psychological text classification](https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1460277/full) | Frontiers in Social Psychology | 2025-02 |
 | [Assessing the accuracy and consistency of large language models in triaging social media posts for psychological distress](https://www.sciencedirect.com/science/article/pii/S0165178125002318) | Psychiatry Research | 2025-09 |
 | [Leveraging large language models for automated depression screening](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000943) | PLOS | 2025-07 |
 | [Systematic Evaluation of GPT-3 for Zero-Shot Personality Estimation](https://aclanthology.org/2023.wassa-1.34/) | WASSA | 2023-07 |
