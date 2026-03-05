@@ -63,40 +63,66 @@ Classification and regression tasks in psychological computing share common enco
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
-| [Validating the use of large language models for psychological text classification](https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1460277/full) | Frontiers in Social Psychology | 2025-02 |
+| [LLM-based semantic integration of stimulus–response pairs for depression detection in interview scenarios](https://www.sciencedirect.com/science/article/abs/pii/S0957417425037273) | EXPERT SYST APPL | 2026-03 |
+| [Cognitive-Mental-LLM: Evaluating Reasoning in Large Language Models for Mental Health Prediction via Online Text](https://arxiv.org/abs/2503.10095) | arXiv | 2026-01 |
+| [Improving Alignment Between Human and Machine Codes: An Empirical Assessment of Prompt Engineering for Construct Identification in Psychology](https://arxiv.org/abs/2512.03818) | arXiv | 2025-12 |
+| [It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models](https://arxiv.org/abs/2511.19877) | arXiv | 2025-11 |
+| [Enhancing substance use detection in clinical notes with large language models](https://www.sciencedirect.com/science/article/pii/S0376871625003412) | Drug and Alcohol Dependence | 2025-11 |
+| [PychoAgent: Psychology-driven LLM Agents for Explainable Panic Prediction on Social Media during Sudden Disaster Events](https://aclanthology.org/2025.emnlp-main.865/) | EMNLP | 2025-11 |
+| [MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media](https://aclanthology.org/2025.emnlp-main.686/) | EMNLP | 2025-11 |
+| [Large language model performance versus human expert ratings in automated suicide risk assessment](https://arxiv.org/abs/1909.03193) | Scientific Reports | 2025-11 |
+| [MoPHES:Leveraging on-device LLMs as Agent for Mobile Psychological Health Evaluation and Support](https://arxiv.org/abs/2510.16085) | arXiv | 2025-10 |
+| [Traits Run Deep: Enhancing Personality Assessment via Psychology-Guided LLM Representations and Multimodal Apparent Behaviors](https://dl.acm.org/doi/10.1145/3746027.3762017) | MM | 2025-10 |
+| [Evaluating LLM Alignment on Personality Inference from Real-World Interview Data](https://arxiv.org/abs/2509.13244) | arXiv | 2025-09 |
+| [Optimizing large language models for detecting symptoms of depression/anxiety in chronic diseases patient communications](https://www.nature.com/articles/s41746-025-01969-5) | npj Digital Medicine | 2025-09 |
 | [Assessing the accuracy and consistency of large language models in triaging social media posts for psychological distress](https://www.sciencedirect.com/science/article/pii/S0165178125002318) | Psychiatry Research | 2025-09 |
+| [Evaluation of large language models on mental health: from knowledge test to illness diagnosis](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1646974/full) | Front Psychiatry | 2025-08 |
+| [Large language models for depression recognition in spoken language integrating psychological knowledge](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2025.1629725/full) | Front. Comput. Sci. | 2025-08 |
+| [Al-Powered RLHF LLM for Anxiety & Depression Detection](https://ieeexplore.ieee.org/abstract/document/11156679) | ICETET-SIP | 2025-08 |
+| [Zero-Shot Speech-Based Depression and Anxiety Assessment with LLMs](https://www.isca-archive.org/interspeech_2025/loweimi25_interspeech.pdf) | Interspeech | 2025-08 |
+| [Explainable and Interactive LLMs-Augmented Depression Detection in Social Media](https://ieeexplore.ieee.org/abstract/document/11142667) | TCSS | 2025-08 |
+| [Prompting-in-a-Series: Psychology-Informed Contents and Embeddings for Personality Recognition With Decoder-Only Models](https://ieeexplore.ieee.org/document/11123438) | TCSS | 2025-08 |
+| [XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare](https://arxiv.org/abs/2405.06270) | arXiv | 2025-07 |
+| [Less but Better: Parameter-Efficient Fine-Tuning of Large Language Models for Personality Detection](https://ieeexplore.ieee.org/document/11228339) | IJCNN | 2025-07 |
 | [Leveraging large language models for automated depression screening](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000943) | PLOS Digital Health | 2025-07 |
-| [Systematic Evaluation of GPT-3 for Zero-Shot Personality Estimation](https://aclanthology.org/2023.wassa-1.34/) | WASSA | 2023-07 |
+| [Interpretable Depression Detection from Social Media Text Using LLM-Derived Embeddings](https://arxiv.org/abs/2506.06616) | BHI | 2025-06 |
+| [Systematic Evaluation of Machine-Generated Reasoning and PHQ-9 Labeling for Depression Detection Using Large Language Models](https://arxiv.org/abs/2505.17119) | arXiv | 2025-05 |
+| [A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG](https://aclanthology.org/2025.clpsych-1.14/) | CLPsych &#124; WS | 2025-05 |
+| [ExDoRA: enhancing the transferability of large language models for depression detection using free-text explanations](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1564828/full) | Frontiers in Artificial Intelligence | 2025-05 |
+| [Leveraging Large Language Models for Digital Phenotyping: Detecting Depressive State Changes for Patients with Depressive Episodes](https://www.medrxiv.org/content/10.1101/2025.05.10.25327354v1.full.pdf) | medRxiv | 2025-05 |
+| [Advancing depression detection on social media platforms through fine-tuned large language models](https://www.sciencedirect.com/science/article/abs/pii/S2468696425000126) | OSNEM | 2025-05 |
+| [MDD-LLM: Towards Accuracy Large Language Models for Major Depressive Disorder Diagnosis](https://arxiv.org/abs/2505.00032) | arXiv | 2025-04 |
+| [Detecting neuropsychiatric fluctuations in Parkinson’s Disease using patients’ own words: the potential of large language models](https://www.nature.com/articles/s41531-025-00939-8) | npj parkinson's disease | 2025-04 |
+| [Validating the use of large language models for psychological text classification](https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1460277/full) | Frontiers in Social Psychology | 2025-02 |
+| [Decoding substance use disorder severity from clinical notes using a large language model](https://www.nature.com/articles/s44184-024-00114-6) | npj mental health research | 2025-02 |
+| [Investigating Large Language Models in Inferring Personality Traits from User Conversations](https://arxiv.org/abs/2501.07532) | arXiv | 2025-01 |
+| [LlaMADRS: Prompting Large Language Models for Interview-Based Depression Assessment](https://arxiv.org/abs/2501.03624) | arXiv | 2025-01 |
+| [Can Large Language Models Understand You Better? An MBTI Personality Detection Dataset Aligned with Population Traits](https://aclanthology.org/2025.coling-main.339/) | COLING | 2025-01 |
+| [GPT-4 shows potential for identifying social anxiety from clinical interview data](https://www.nature.com/articles/s41598-024-82192-2) | Scientific Reports | 2024-12 |
+| [Synthetic Data Generation with LLM for Improved Depression Prediction](https://arxiv.org/abs/2411.17672) | arXiv | 2024-11 |
+| [Zero-Shot Strike: Testing the generalisation capabilities of out-of-the-box LLM models for depression detection](https://www.sciencedirect.com/science/article/pii/S0885230824000469) | Computer Speech and Language | 2024-11 |
+| [PsyGUARD: An Automated System for Suicide Detection and Risk Assessment in Psychological Counseling](https://aclanthology.org/2024.emnlp-main.264/) | EMNLP | 2024-11 |
+| [Cascade Large Language Model via In-Context Learning for Depression Detection on Chinese Social Media](https://link.springer.com/chapter/10.1007/978-981-97-8487-5_25) | PRCV | 2024-11 |
+| [Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs](https://arxiv.org/abs/2410.05684) | arXiv | 2024-10 |
+| [MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders](https://arxiv.org/abs/2410.06845) | arXiv | 2024-10 |
+| [Advancing Mental Health Pre-Screening: A New Custom GPT for Psychological Distress Assessment](https://ieeexplore.ieee.org/document/10835572) | CogMI | 2024-10 |
+| [Automating PTSD Diagnostics in Clinical Interviews: Leveraging Large Language Models for Trauma Assessments](https://aclanthology.org/2024.sigdial-1.55/) | SIGDIAL | 2024-09 |
+| [PsychoGAT: A Novel Psychological Measurement Paradigm through Interactive Fiction Games with LLM Agents](https://aclanthology.org/2024.acl-long.779/) | ACL | 2024-08 |
+| [MentalQLM: A Lightweight Large Language Model for Mental Healthcare Based on Instruction Tuning and Dual LoRA Modules](https://ieeexplore.ieee.org/abstract/document/11106680) | IEEE J. Biomed. Health | 2024-08 |
+| [Depression Detection and Analysis using Large Language Models on Textual and Audio-Visual Modalities](https://arxiv.org/abs/2407.06125) | arXiv | 2024-07 |
+| [Predicting the Big Five Personality Traits in Chinese Counselling Dialogues Using Large Language Models](https://arxiv.org/abs/2406.17287) | arXiv | 2024-06 |
 | [Large language models can infer psychological dispositions of social media users](https://academic.oup.com/pnasnexus/article/3/6/pgae231/7692212?login=false) | PNAS nexus | 2024-06 |
 | [Large language models can infer personality from free-form user interactions](https://arxiv.org/abs/2405.13052) | arXiv | 2024-05 |
-| [Investigating Large Language Models in Inferring Personality Traits from User Conversations](https://arxiv.org/abs/2501.07532) | arXiv | 2025-01 |
-| [Decoding substance use disorder severity from clinical notes using a large language model](https://www.nature.com/articles/s44184-024-00114-6) | npj mental health research | 2025-02 |
-| [GPT-4 shows potential for identifying social anxiety from clinical interview data](https://www.nature.com/articles/s41598-024-82192-2) | Scientific Reports | 2024-12 |
-| [LlaMADRS: Prompting Large Language Models for Interview-Based Depression Assessment](https://arxiv.org/abs/2501.03624) | arXiv | 2025-01 |
-| [Cognitive-Mental-LLM: Evaluating Reasoning in Large Language Models for Mental Health Prediction via Online Text](https://arxiv.org/abs/2503.10095) | arXiv | 2026-01 |
-| [ExDoRA: enhancing the transferability of large language models for depression detection using free-text explanations](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1564828/full) | Frontiers in Artificial Intelligence | 2025-05 |
-| [Cascade Large Language Model via In-Context Learning for Depression Detection on Chinese Social Media](https://link.springer.com/chapter/10.1007/978-981-97-8487-5_25) | PRCV | 2024-11 |
-| [XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare](https://arxiv.org/abs/2405.06270) | arXiv | 2025-07 |
-| [Large language model performance versus human expert ratings in automated suicide risk assessment](https://arxiv.org/abs/1909.03193) | Scientific Reports | 2025-11 |
-| [Leveraging Large Language Models for Digital Phenotyping: Detecting Depressive State Changes for Patients with Depressive Episodes](https://www.medrxiv.org/content/10.1101/2025.05.10.25327354v1.full.pdf) | medRxiv | 2025-05 |
-| [Detecting neuropsychiatric fluctuations in Parkinson’s Disease using patients’ own words: the potential of large language models](https://www.nature.com/articles/s41531-025-00939-8) | npj parkinson's disease | 2025-04 |
-| [Advancing Mental Health Pre-Screening: A New Custom GPT for Psychological Distress Assessment](https://ieeexplore.ieee.org/document/10835572) | CogMI | 2024-10 |
-| [Explainable and Interactive LLMs-Augmented Depression Detection in Social Media](https://ieeexplore.ieee.org/abstract/document/11142667) | TCSS | 2025-08 |
 | [Zero-shot Explainable Mental Health Analysis on Social Media by Incorporating Mental Scales](https://dl.acm.org/doi/10.1145/3589335.3651584) | WWW | 2024-05 |
-| [Improving Alignment Between Human and Machine Codes: An Empirical Assessment of Prompt Engineering for Construct Identification in Psychology](https://arxiv.org/abs/2512.03818) | arXiv | 2025-12 |
-| [Automating PTSD Diagnostics in Clinical Interviews: Leveraging Large Language Models for Trauma Assessments](https://aclanthology.org/2024.sigdial-1.55/) | SIGDIAL | 2024-09 |
+| [Leveraging Large Language Models to Extract Information on Substance Use Disorder Severity from Clinical Notes: A Zero-shot Learning Approach](https://arxiv.org/abs/2403.12297) | arXiv | 2024-03 |
+| [LLMs-based Few-Shot Disease Predictions using EHR: A Novel Approach Combining Predictive Agent Reasoning and Critical Agent Instruction](https://arxiv.org/abs/2403.15464) | arXiv | 2024-03 |
+| [Delving into the Depths: Evaluating Depression Severity through BDI-biased Summaries](https://aclanthology.org/2024.clpsych-1.2/) | CLPsych &#124; WS | 2024-03 |
+| [Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via Online Text Data](https://dl.acm.org/doi/abs/10.1145/3643540) | IMWUT | 2024-03 |
+| [Can Large Language Models Assess Personality From Asynchronous Video Interviews? A Comprehensive Evaluation of Validity, Reliability, Fairness, and Rating Patterns](https://ieeexplore.ieee.org/document/10463124) | TAFFC | 2024-03 |
 | [PsyCoT: Psychological Questionnaire as Powerful Chain-of-Thought for Personality Detection](https://aclanthology.org/2023.findings-emnlp.216/) | EMNLP Findings | 2023-12 |
 | [Empowering Psychotherapy with Large Language Models: Cognitive Distortion Detection through Diagnosis of Thought Prompting](https://aclanthology.org/2023.findings-emnlp.284/) | EMNLP Findings | 2023-12 |
-| [Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs](https://arxiv.org/abs/2410.05684) | arXiv | 2024-10 |
-| [LLM-based semantic integration of stimulus–response pairs for depression detection in interview scenarios](https://www.sciencedirect.com/science/article/abs/pii/S0957417425037273) | EXPERT SYST APPL | 2026-03 |
-| [Delving into the Depths: Evaluating Depression Severity through BDI-biased Summaries](https://aclanthology.org/2024.clpsych-1.2/) | CLPsych &#124; WS | 2024-03 |
-| [Can Large Language Models Understand You Better? An MBTI Personality Detection Dataset Aligned with Population Traits](https://aclanthology.org/2025.coling-main.339/) | COLING | 2025-01 |
-| [Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via Online Text Data](https://dl.acm.org/doi/abs/10.1145/3643540) | IMWUT | 2024-03 |
-| [Advancing depression detection on social media platforms through fine-tuned large language models](https://www.sciencedirect.com/science/article/abs/pii/S2468696425000126) | OSNEM | 2025-05 |
-| [Systematic Evaluation of Machine-Generated Reasoning and PHQ-9 Labeling for Depression Detection Using Large Language Models](https://arxiv.org/abs/2505.17119) | arXiv | 2025-05 |
-| [Predicting the Big Five Personality Traits in Chinese Counselling Dialogues Using Large Language Models](https://arxiv.org/abs/2406.17287) | arXiv | 2024-06 |
-| [Zero-Shot Speech-Based Depression and Anxiety Assessment with LLMs](https://www.isca-archive.org/interspeech_2025/loweimi25_interspeech.pdf) | Interspeech | 2025-08 |
-| [Traits Run Deep: Enhancing Personality Assessment via Psychology-Guided LLM Representations and Multimodal Apparent Behaviors](https://dl.acm.org/doi/10.1145/3746027.3762017) | MM | 2025-10 |
+| [Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media](https://arxiv.org/abs/2309.03564) | arXiv | 2023-09 |
+| [Systematic Evaluation of GPT-3 for Zero-Shot Personality Estimation](https://aclanthology.org/2023.wassa-1.34/) | WASSA | 2023-07 |
 
 ## Structured Relational
 
