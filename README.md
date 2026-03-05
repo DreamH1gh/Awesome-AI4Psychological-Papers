@@ -153,7 +153,31 @@ Classification and regression tasks in psychological computing share common enco
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
-| [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/) | EMNLP Findings | 2023-12 |
+| [ESCoT: Towards Interpretable Emotional Support Dialogue Systems](https://aclanthology.org/2024.acl-long.723/) | ACL | 2024-08 |
+| [Rethinking the Alignment of Psychotherapy Dialogue Generation with Motivational Interviewing Strategies](https://aclanthology.org/2025.coling-main.136/) | COLING | 2025-01 |
+| [Cause-Aware Empathetic Response Generation via Chain-of-Thought Fine-Tuning](https://arxiv.org/abs/2408.11599) | arXiv | 2024-08 |
+| [MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent Systems](https://arxiv.org/abs/2505.18943) | arXiv | 2025-05 |
+| [HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy](https://aclanthology.org/2024.acl-long.93/) | ACL | 2024-08 |
+| [Reframe Your Life Story: Interactive Narrative Therapist and Innovative Moment Assessment with Large Language Models](https://aclanthology.org/2025.emnlp-main.1245/) | EMNLP | 2025-11 |
+| [MIND: Towards Immersive Psychological Healing with Multi-Agent Inner Dialogue](https://aclanthology.org/2025.findings-emnlp.499/) | EMNLP | 2025-11 |
+| [SweetieChat: A Strategy-Enhanced Role-playing Framework for Diverse Scenarios Handling Emotional Support Agent](https://aclanthology.org/2025.coling-main.312/) | COLING | 2025-01 |
+| [Self-chats from Large Language Models Make Small Emotional Support Chatbot Better](https://aclanthology.org/2024.acl-long.611/) | ACL | 2024-08 |
+| [Polaris: A Safety-focused LLM Constellation Architecture for Healthcare](https://arxiv.org/abs/2403.13313) | arXiv | 2024-03 |
+| [AutoCBT: An Autonomous Multi-agent Framework for Cognitive Behavioral Therapy in Psychological Counseling](https://arxiv.org/abs/2501.09426) | arXiv | 2025-01 |
+| [MultiAgentESC: A LLM-based Multi-Agent Collaboration Framework for Emotional Support Conversation](https://aclanthology.org/2025.emnlp-main.232/) | EMNLP | 2025-11 |
+| [MAGI: Multi-Agent Guided Interview for Psychiatric Assessment](https://arxiv.org/abs/2504.18260) | arXiv | 2025-04 |
+| [MENTALER: Toward Professional Mental Health Support with LLMs via Multi-Role Collaboration](https://ieeexplore.ieee.org/abstract/document/10822643) | BIBM | 2024-12 |
+| [A Multi-Agent Dual Dialogue System to Support Mental Health Care Providers](https://arxiv.org/abs/2411.18429) | arXiv | 2024-11 |
+| [PsychAdapter: adapting LLMs to reflect traits, personality, and mental health](https://www.nature.com/articles/s44387-026-00071-9) | npj Artificial Intelligence | 2026-03 |
+| [Leveraging Large Language Models for Simulated Psychotherapy Client Interactions: Development and Usability Study of Client101
+](https://mededu.jmir.org/2025/1/e68056) | JMIR Medical Education | 2025-07 |
+| [Cognitive reframing of negative thoughts through human-language model interaction](https://aclanthology.org/2023.acl-long.555/) | ACL | 2023-07 |
+| [Towards Safety and Helpfulness Balanced Responses via Controllable Large Language Models](https://arxiv.org/abs/2404.01295) | arXiv | 2024-04 |
+| [Deciphering Cognitive Distortions in Patient-Doctor Mental Health Conversations: A Multimodal LLM-Based Detection and Reasoning Framework](https://aclanthology.org/2024.emnlp-main.1256/) | EMNLP | 2024-11 |
+| [Flexible Thinking for Multimodal Emotional Support Conversation via Reinforcement Learning](https://aclanthology.org/2025.findings-emnlp.70/) | EMNLP Findings | 2025-11 |
+| [Towards multimodal empathetic response generation: A rich text-speech-vision avatar-based benchmark](https://dl.acm.org/doi/10.1145/3696410.3714739) | WWW | 2025-04 |
+| [Reinforcing Trustworthiness in Multimodal Emotional Support Systems](https://arxiv.org/abs/2511.10011) | arXiv | 2025-11 |
+
 
 ## Datasets of Tasks
 ### Classification Datasets
