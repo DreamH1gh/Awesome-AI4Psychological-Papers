@@ -169,8 +169,7 @@ Classification and regression tasks in psychological computing share common enco
 | [MENTALER: Toward Professional Mental Health Support with LLMs via Multi-Role Collaboration](https://ieeexplore.ieee.org/abstract/document/10822643) | BIBM | 2024-12 |
 | [A Multi-Agent Dual Dialogue System to Support Mental Health Care Providers](https://arxiv.org/abs/2411.18429) | arXiv | 2024-11 |
 | [PsychAdapter: adapting LLMs to reflect traits, personality, and mental health](https://www.nature.com/articles/s44387-026-00071-9) | npj Artificial Intelligence | 2026-03 |
-| [Leveraging Large Language Models for Simulated Psychotherapy Client Interactions: Development and Usability Study of Client101
-](https://mededu.jmir.org/2025/1/e68056) | JMIR Medical Education | 2025-07 |
+| [Leveraging Large Language Models for Simulated Psychotherapy Client Interactions: Development and Usability Study of Client101](https://mededu.jmir.org/2025/1/e68056) | JMIR Medical Education | 2025-07 |
 | [Cognitive reframing of negative thoughts through human-language model interaction](https://aclanthology.org/2023.acl-long.555/) | ACL | 2023-07 |
 | [Towards Safety and Helpfulness Balanced Responses via Controllable Large Language Models](https://arxiv.org/abs/2404.01295) | arXiv | 2024-04 |
 | [Deciphering Cognitive Distortions in Patient-Doctor Mental Health Conversations: A Multimodal LLM-Based Detection and Reasoning Framework](https://aclanthology.org/2024.emnlp-main.1256/) | EMNLP | 2024-11 |
