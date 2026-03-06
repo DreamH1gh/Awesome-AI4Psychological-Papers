@@ -269,8 +269,8 @@ Classification and regression tasks in psychological computing share common enco
 | [SEMAINE](https://ieeexplore.ieee.org/abstract/document/5959155/) | Emotion intensity | 190 video clips | [github](https://github.com/marytts/dfki-semaine-data) |
 | [ChaLearn LAP 2016](https://link.springer.com/chapter/10.1007/978-3-319-49409-8_32) | Personality | 10,000 video clips | [html](https://gesture.chalearn.org/2016-looking-at-people-eccv-workshop-challenge/data-and-description) |
 | [UDIVA](https://ieeexplore.ieee.org/document/9407599) | Personality | 90.5-hour vedio| [html](https://chalearnlap.cvc.uab.es/dataset/39/description/) |
-| [Biel el al.](https://www.idiap.ch/~gatica/publications/BielTeijeiroGatica-icmi12.pdf) | Personality | 281 vedios | - |
-| [GABRIELLA et al.](https://drive.google.com/file/d/1NdQMe4PupqafvLifZVGC_GvXlPyjaQmU/view?pli=1) | Personality | 633 participants | [html](https://osf.io/xzmkb/overview) |
+| [Biel el al.(2012)](https://www.idiap.ch/~gatica/publications/BielTeijeiroGatica-icmi12.pdf) | Personality | 281 vedios | - |
+| [GABRIELLA et al.(2020)](https://drive.google.com/file/d/1NdQMe4PupqafvLifZVGC_GvXlPyjaQmU/view?pli=1) | Personality | 633 participants | [html](https://osf.io/xzmkb/overview) |
 | [Noxi](https://dl.acm.org/doi/10.1145/3136755.3136780) | Personality, emotion | 84 interactions| [html](http://umezawa.dyndns.info/archive/utvideo/) |
 | [VHQ](https://ieeexplore.ieee.org/document/8925456) | Personality, depression | 55 participants | - |
 | [myPersonality](https://davidstillwell.co.uk/articles/Stillwell_and_Kosinski_%282012%29_myPersonality_Introduction.pdf) | Personality |  over 6 million participants | [github](https://github.com/vanderlowe/myPersonality) |
