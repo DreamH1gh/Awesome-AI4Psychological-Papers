@@ -35,6 +35,7 @@ If you find our survey useful for your research, please cite the following paper
 
 ## Classification & Regression
 Classification and regression tasks in psychological computing share common encoding architectures but differ in their output formulations. Classification tasks map inputs to discrete psychological categories through softmax layers, while regression tasks predict continuous severity scores or trait measurements through linear output layers. Both benefit from similar feature extraction strategies and domain adaptation techniques.
+
 ### PLM-based Papers
 
 | Paper | Venue | Date |
@@ -57,7 +58,6 @@ Classification and regression tasks in psychological computing share common enco
 | [Multimodal Fusion of BERT-CNN and Gated CNN Representations for Depression Detection](https://dl.acm.org/doi/abs/10.1145/3347320.3357694) | AVEC'19 | 2019-10 |
 | [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) | Bioinformatics | 2019-09 |
 | [Clinicalbert: Modeling clinical notes and predicting hospital readmission](https://arxiv.org/abs/1904.05342) | arXiv | 2019-04 |
-
 
 ### LLM-based Papers
 
@@ -258,9 +258,11 @@ Classification and regression tasks in psychological computing share common enco
 | [Cognitive reframing of negative thoughts through human-language model interaction](https://aclanthology.org/2023.acl-long.555/) | ACL | 2023-07 |
 | [Human–AI collaboration enables more empathic conversations in text-based peer-to-peer mental health support](https://www.nature.com/articles/s42256-022-00593-2) | Nature Machine Intelligence | 2023-01 |
 
-## Datasets of Tasks
-### Classification Datasets
 
+## Datasets of Tasks
+
+### Classification Datasets
+<p align="center">
 | Dataset |  Domain  |   Size  | Link | 
 |:--------:|:--------:|:--------:| :--------:|
 | [Turkish Audio-Visual Bipolar Disorder corpus](https://ieeexplore.ieee.org/abstract/document/8470362)| Bipolar disorder | 352 vedios | [github](https://github.com/DreamH1gh/Awesome-AI4Psychological-Papers/edit/main/README.md) |
@@ -298,10 +300,10 @@ Classification and regression tasks in psychological computing share common enco
 | [Lo et al.(2004)](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/j.1467-8535.2005.00437.x) | Learning style | 121 participants | - |
 | [García et al.(2007)](https://www.sciencedirect.com/science/article/abs/pii/S0360131505001788) | Learning style | 27 participants | - |
 | [Wu et al.(2008)](https://www.sciencedirect.com/science/article/abs/pii/S0957417407000619?via%3Dihub)| Learning disabilities | 284 participants | - |
+</p>
 
 ### Regression Dataset
 <p align="center">
-
 | Dataset |  Domain  |   Size  | Link | 
 |:--------:|:--------:|:--------:| :--------:|
 | [AffectNet](https://ieeexplore.ieee.org/abstract/document/8013713) | Dimensional emotion | 450,000 images | [html](https://mohammadmahoor.com/pages/databases/affectnet/) |
