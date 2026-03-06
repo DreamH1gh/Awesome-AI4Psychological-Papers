@@ -248,3 +248,45 @@ Classification and regression tasks in psychological computing share common enco
 | [García et al.(2007)](https://www.sciencedirect.com/science/article/abs/pii/S0360131505001788) | Learning style | 27 participants | - |
 | [Wu et al.(2008)](https://www.sciencedirect.com/science/article/abs/pii/S0957417407000619?via%3Dihub)| Learning disabilities | 284 participants | - |
 
+### Regression Dataset
+<p align="center">
+
+| Dataset |  Domain  |   Size  | Link | 
+|:--------:|:--------:|:--------:| :--------:|
+| [AffectNet](https://ieeexplore.ieee.org/abstract/document/8013713) | Dimensional emotion | 450,000 images | [html](https://mohammadmahoor.com/pages/databases/affectnet/) |
+| [Tweet Emotion Intensity](https://aclanthology.org/W17-5205/) | Emotion intensity | 7,097 tweets | [html](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) |
+|[EmoBank](https://aclanthology.org/E17-2092/) | Dimensional emotion | 10,062 sentences | [github](https://github.com/JULIELab/EmoBank) |
+| [Preoţiuc-Pietro et al.(2016)](https://aclanthology.org/W16-0404/)| Dimensional emotion | 2,895 posts | - |
+| [Zhang et al.(2021)](https://www.sciencedirect.com/science/article/abs/pii/S0925231221003015) | Dimensional emotion | 2,914 images | - |
+| [IEMOCAP](https://link.springer.com/article/10.1007/S10579-008-9076-6) | Dimensional emotion | 7,433 utterances  | [html](https://sail.usc.edu/iemocap/) |
+| [MOSI](https://ieeexplore.ieee.org/document/7742221) | Sentiment intensity | 93 vedios | [github](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK) |
+| [MEAD](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660698.pdf) | Emotion intensity | 60 participants | [github](https://wywu.github.io/projects/MEAD/MEAD.html) |
+| [RECOLA](https://ieeexplore.ieee.org/abstract/document/6553805) | Dimensional emotion | 46 participants | [html](https://recola.human-ist.ch/download.html) |
+| [SEWA](https://ieeexplore.ieee.org/document/8854185) | Affective intensity | 398 participants | [html](http://db.sewaproject.eu/) |
+| [Aff-Wild](https://ieeexplore.ieee.org/document/8014982) | Dimensional emotion | 298 videos | [html](https://sites.google.com/view/dimitrioskollias/databases/aff-wild2) |
+| [Ulm-TSST](https://dl.acm.org/doi/10.1145/3475957.3484450) | Dimensional emotion | 291 vedios | [github](https://github.com/lstappen/MuSe2021) |
+| [SEMAINE](https://ieeexplore.ieee.org/abstract/document/5959155/) | Emotion intensity | 190 video clips | [github](https://github.com/marytts/dfki-semaine-data) |
+| [ChaLearn LAP 2016](https://link.springer.com/chapter/10.1007/978-3-319-49409-8_32) | Personality | 10,000 video clips | [html](https://gesture.chalearn.org/2016-looking-at-people-eccv-workshop-challenge/data-and-description) |
+| [UDIVA](https://ieeexplore.ieee.org/document/9407599) | Personality | 90.5-hour vedio| [html](https://chalearnlap.cvc.uab.es/dataset/39/description/) |
+| [Biel el al.](https://www.idiap.ch/~gatica/publications/BielTeijeiroGatica-icmi12.pdf) | Personality | 281 vedios | - |
+| [GABRIELLA et al.](https://drive.google.com/file/d/1NdQMe4PupqafvLifZVGC_GvXlPyjaQmU/view?pli=1) | Personality | 633 participants | [html](https://osf.io/xzmkb/overview) |
+| [Noxi](https://dl.acm.org/doi/10.1145/3136755.3136780) | Personality, emotion | 84 interactions| [html](http://umezawa.dyndns.info/archive/utvideo/) |
+| [VHQ](https://ieeexplore.ieee.org/document/8925456) | Personality, depression | 55 participants | - |
+| [myPersonality](https://davidstillwell.co.uk/articles/Stillwell_and_Kosinski_%282012%29_myPersonality_Introduction.pdf) | Personality |  over 6 million participants | [github](https://github.com/vanderlowe/myPersonality) |
+| [MBTIBENCH](https://aclanthology.org/2025.coling-main.339.pdf) | Personality | 286 samples | [github](https://github.com/Personality-NLP/MbtiBench) |
+| [Nguyen et al.(2018)](https://dl.acm.org/doi/10.1007/s10796-017-9782-y) | Personality | 1,635 participants | - |
+| [Newsfullness](https://www.sciencedirect.com/science/article/pii/S0950705120304354) | Personality | 1,580 participants | - |
+| [Stachl et al.(2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7395458/#s4) | Personality | 624 participants | [html](https://osf.io/kqjhr/overview) |
+| [Polzehl et al.(2010)](https://ieeexplore.ieee.org/document/5628942) | Personality | 220 audio samples | - | 
+| [UESTC](https://www.sciencedirect.com/science/article/abs/pii/S1053811918307365) | Temperaments | 360 participants | - |
+| [StudentLife](https://dl.acm.org/doi/abs/10.1145/2632048.2632054) | Depression | 48 participants | [html](https://studentlife.cs.dartmouth.edu/) |
+| [Saeb et al.(2015)](https://www.jmir.org/2015/7/e175) | Depression | 28 participants | - |
+| [Arevian et al.(2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225695) | Mental health | 1,101 audio samples | - |
+| [PsyVoiD](https://ieeexplore.ieee.org/abstract/document/9630833) | Affect recognition | 109 participants | [html](https://datashare.ed.ac.uk/handle/10283/8553) | 
+| [DepreST](https://www.sciencedirect.com/science/article/pii/S2772442522000375) | Depression | 440 participants | [github](https://github.com/mltlachac/DepreST-CAT) | 
+| [College Experience Study dataset](https://dl.acm.org/doi/abs/10.1145/3643501) | Mental health | 215 participants | [kaggle](https://www.kaggle.com/datasets/subigyanepal/college-experience-dataset) |
+| [Tasnim et al.(2024)](https://ieeexplore.ieee.org/abstract/document/10446567) | Depression, Anxiety, Stress | 1,049 audio samples | - | 
+| [Shawna L. Palmer et al.(2013](https://ascopubs.org/doi/10.1200/JCO.2012.47.4775) | Working Memory | 126 participants | - |
+| [Rykov et al.](https://link.springer.com/article/10.1186/s12916-024-03252-y#availability-of-data-and-materials) | Cognitive | 17 participants | - |
+</p>
+
