@@ -185,30 +185,78 @@ Classification and regression tasks in psychological computing share common enco
 
 | Paper | Venue | Date |
 | :----- | :--------------: | :------- |
-| [ESCoT: Towards Interpretable Emotional Support Dialogue Systems](https://aclanthology.org/2024.acl-long.723/) | ACL | 2024-08 |
-| [Rethinking the Alignment of Psychotherapy Dialogue Generation with Motivational Interviewing Strategies](https://aclanthology.org/2025.coling-main.136/) | COLING | 2025-01 |
-| [Cause-Aware Empathetic Response Generation via Chain-of-Thought Fine-Tuning](https://arxiv.org/abs/2408.11599) | arXiv | 2024-08 |
-| [MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent Systems](https://arxiv.org/abs/2505.18943) | arXiv | 2025-05 |
-| [HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy](https://aclanthology.org/2024.acl-long.93/) | ACL | 2024-08 |
+| [PsychAdapter: adapting LLMs to reflect traits, personality, and mental health](https://www.nature.com/articles/s44387-026-00071-9) | npj Artificial Intelligence | 2026-03 |
+| [Development and Evaluation of HopeBot: an LLM-based chatbot for structured and interactive PHQ-9 depression screening](https://arxiv.org/abs/2507.05984) | arXiv | 2026-01 |
+| [TeenEmpath: Towards Adolescent Psychological Counseling With Multiple Personas and Strategies](https://ieeexplore.ieee.org/document/11271516) | TAFFC | 2025-12 |
+| [Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation](https://ieeexplore.ieee.org/document/11293762) | TASLP | 2025-12 |
+| [MCTSr-Zero: Self-Reflective Psychological Counseling Dialogues Generation via Principles and Adaptive Exploration](https://arxiv.org/abs/2505.23229) | AAAI | 2025-11 |
+| [Reinforcing Trustworthiness in Multimodal Emotional Support Systems](https://arxiv.org/abs/2511.10011) | arXiv | 2025-11 |
+| [Trustworthy AI Psychotherapy: Multi-Agent LLM Workflow for Counseling and Explainable Mental Disorder Diagnosis](https://dl.acm.org/doi/10.1145/3746252.3761164) | CIKM | 2025-11 |
 | [Reframe Your Life Story: Interactive Narrative Therapist and Innovative Moment Assessment with Large Language Models](https://aclanthology.org/2025.emnlp-main.1245/) | EMNLP | 2025-11 |
 | [MIND: Towards Immersive Psychological Healing with Multi-Agent Inner Dialogue](https://aclanthology.org/2025.findings-emnlp.499/) | EMNLP | 2025-11 |
-| [SweetieChat: A Strategy-Enhanced Role-playing Framework for Diverse Scenarios Handling Emotional Support Agent](https://aclanthology.org/2025.coling-main.312/) | COLING | 2025-01 |
-| [Self-chats from Large Language Models Make Small Emotional Support Chatbot Better](https://aclanthology.org/2024.acl-long.611/) | ACL | 2024-08 |
-| [Polaris: A Safety-focused LLM Constellation Architecture for Healthcare](https://arxiv.org/abs/2403.13313) | arXiv | 2024-03 |
-| [AutoCBT: An Autonomous Multi-agent Framework for Cognitive Behavioral Therapy in Psychological Counseling](https://arxiv.org/abs/2501.09426) | arXiv | 2025-01 |
 | [MultiAgentESC: A LLM-based Multi-Agent Collaboration Framework for Emotional Support Conversation](https://aclanthology.org/2025.emnlp-main.232/) | EMNLP | 2025-11 |
-| [MAGI: Multi-Agent Guided Interview for Psychiatric Assessment](https://arxiv.org/abs/2504.18260) | arXiv | 2025-04 |
-| [MENTALER: Toward Professional Mental Health Support with LLMs via Multi-Role Collaboration](https://ieeexplore.ieee.org/abstract/document/10822643) | BIBM | 2024-12 |
-| [A Multi-Agent Dual Dialogue System to Support Mental Health Care Providers](https://arxiv.org/abs/2411.18429) | arXiv | 2024-11 |
-| [PsychAdapter: adapting LLMs to reflect traits, personality, and mental health](https://www.nature.com/articles/s44387-026-00071-9) | npj Artificial Intelligence | 2026-03 |
-| [Leveraging Large Language Models for Simulated Psychotherapy Client Interactions: Development and Usability Study of Client101](https://mededu.jmir.org/2025/1/e68056) | JMIR Medical Education | 2025-07 |
-| [Cognitive reframing of negative thoughts through human-language model interaction](https://aclanthology.org/2023.acl-long.555/) | ACL | 2023-07 |
-| [Towards Safety and Helpfulness Balanced Responses via Controllable Large Language Models](https://arxiv.org/abs/2404.01295) | arXiv | 2024-04 |
-| [Deciphering Cognitive Distortions in Patient-Doctor Mental Health Conversations: A Multimodal LLM-Based Detection and Reasoning Framework](https://aclanthology.org/2024.emnlp-main.1256/) | EMNLP | 2024-11 |
+| [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://aclanthology.org/2025.emnlp-main.594/) | EMNLP | 2025-11 |
+| [Towards AI-Assisted Psychotherapy: Emotion-Guided Generative Interventions](https://aclanthology.org/2025.emnlp-main.1664/) | EMNLP | 2025-11 |
 | [Flexible Thinking for Multimodal Emotional Support Conversation via Reinforcement Learning](https://aclanthology.org/2025.findings-emnlp.70/) | EMNLP Findings | 2025-11 |
+| [A Prompt Engineering Framework for Large Language Model–Based Mental Health Chatbots: Conceptual Framework](https://mental.jmir.org/2025/1/e75078) | JMIR Mental Health | 2025-11 |
+| [TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological Counseling](https://arxiv.org/abs/2510.25758) | arXiv | 2025-10 |
+| [Empathy-R1: A Chain-of-Empathy and Reinforcement Learning Framework for Long-Form Mental Health Support](https://arxiv.org/abs/2509.14851) | arXiv | 2025-09 |
+| [Aligning large language models for cognitive behavioral therapy: a proof-of-concept study](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1583739/full) | Frontiers in Psychiatry | 2025-09 |
+| [Embodied Multimodal Chatbot for Mental Health Support in Web-Based 3D Environments](https://ieeexplore.ieee.org/document/11197343) | SoftCOM | 2025-09 |
+| [Serencoach: an Ai-Driven Persuasive Digital Coach for Anxiety and Depression Management](https://ieeexplore.ieee.org/abstract/document/11168296) | SeGAH | 2025-08 |
+| [PsyDT: Using LLMs to Construct the Digital Twin of Psychological Counselor with Personalized Counseling Style for Psychological Counseling](https://aclanthology.org/2025.acl-long.55/) | ACL | 2025-07 |
+| [Dialogue Systems for Emotional Support via Value Reinforcement](https://aclanthology.org/2025.acl-long.1395/) | ACL | 2025-07 |
+| [iPET: An Interactive Emotional Companion Dialogue System with LLM-Powered Virtual Pet World Simulation](https://aclanthology.org/2025.acl-demo.40/) | ACL | 2025-07 |
+| [AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation](https://aclanthology.org/2025.findings-acl.1192/) | ACL Findings | 2025-07 |
+| [Leveraging Large Language Models for Simulated Psychotherapy Client Interactions: Development and Usability Study of Client101](https://mededu.jmir.org/2025/1/e68056) | JMIR Medical Education | 2025-07 |
+| [RHealthTwin: Towards Responsible and Multimodal Digital Twins for Personalized Well-being](https://arxiv.org/abs/2506.08486) | IEEE EMBS JBHI | 2025-06 |
+| [MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent Systems](https://arxiv.org/abs/2505.18943) | arXiv | 2025-05 |
+| [The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support](https://aclanthology.org/2025.clpsych-1.3/) | CLPsych &#124; WS | 2025-05 |
+| [CascadeRCG: Retrieval-Augmented Generation for Enhancing Professionalism and Knowledgeability in Online Mental Health Support](https://dl.acm.org/doi/10.1145/3701716.3715466) | WWW | 2025-05 |
+| [MAGI: Multi-Agent Guided Interview for Psychiatric Assessment](https://arxiv.org/abs/2504.18260) | arXiv | 2025-04 |
+| [PsyCounAssist: A Full-Cycle AI-Powered Psychological Counseling Assistant System](https://arxiv.org/abs/2504.16573) | arXiv | 2025-04 |
+| [AI on My Shoulder: Supporting Emotional Labor in Front-Office Roles with an LLM-based Empathetic Coworker](https://dl.acm.org/doi/10.1145/3706598.3713705) | CHI | 2025-04 |
 | [Towards multimodal empathetic response generation: A rich text-speech-vision avatar-based benchmark](https://dl.acm.org/doi/10.1145/3696410.3714739) | WWW | 2025-04 |
-| [Reinforcing Trustworthiness in Multimodal Emotional Support Systems](https://arxiv.org/abs/2511.10011) | arXiv | 2025-11 |
-
+| [Prompt Engineering an Informational Chatbot for Education on Mental Health Using a Multiagent Approach for Enhanced Compliance With Prompt Instructions: Algorithm Development and Validation](https://ai.jmir.org/2025/1/e69820) | JMIR AI | 2025-03 |
+| [Leveraging LLMs and wearables to provide personalized recommendations for enhancing student well-being and academic performance through a proof of concept](https://www.nature.com/articles/s41598-025-89386-2) | Scientific Reports | 2025-02 |
+| [AutoCBT: An Autonomous Multi-agent Framework for Cognitive Behavioral Therapy in Psychological Counseling](https://arxiv.org/abs/2501.09426) | arXiv | 2025-01 |
+| [Evaluating an LLM-Powered Chatbot for Cognitive Restructuring: Insights from Mental Health Professionals](https://arxiv.org/abs/2501.15599) | arXiv | 2025-01 |
+| [PsyDI: Towards a Personalized and Progressively In-depth Chatbot for Psychological Measurements](https://arxiv.org/abs/2408.03337) | arXiv | 2025-01 |
+| [Rethinking the Alignment of Psychotherapy Dialogue Generation with Motivational Interviewing Strategies](https://aclanthology.org/2025.coling-main.136/) | COLING | 2025-01 |
+| [SweetieChat: A Strategy-Enhanced Role-playing Framework for Diverse Scenarios Handling Emotional Support Agent](https://aclanthology.org/2025.coling-main.312/) | COLING | 2025-01 |
+| [TOOL-ED: Enhancing Empathetic Response Generation with the Tool Calling Capability of LLM](https://aclanthology.org/2025.coling-main.355/) | COLING | 2025-01 |
+| [Sibyl: Empowering Empathetic Dialogue Generation in Large Language Models via Sensible and Visionary Commonsense Inference](https://aclanthology.org/2025.coling-main.10/) | COLING | 2025-01 |
+| [MENTALER: Toward Professional Mental Health Support with LLMs via Multi-Role Collaboration](https://ieeexplore.ieee.org/abstract/document/10822643) | BIBM | 2024-12 |
+| [Empathetic Reflective Response Generation: Towards Conversation Models for Online Mental Health Support](https://ieeexplore.ieee.org/document/10903396) | ICMLA | 2024-12 |
+| [Advancing Conversational Psychotherapy: Integrating Privacy, Dual-Memory, and Domain Expertise with Large Language Models](https://arxiv.org/abs/2412.02987) | NeurIPS Workshop | 2024-12 |
+| [A Multi-Agent Dual Dialogue System to Support Mental Health Care Providers](https://arxiv.org/abs/2411.18429) | arXiv | 2024-11 |
+| [Deciphering Cognitive Distortions in Patient-Doctor Mental Health Conversations: A Multimodal LLM-Based Detection and Reasoning Framework](https://aclanthology.org/2024.emnlp-main.1256/) | EMNLP | 2024-11 |
+| [PATIENT-𝜓: Using Large Language Models to Simulate Patients for Training Mental Health Professionals](https://aclanthology.org/2024.emnlp-main.711/) | EMNLP | 2024-11 |
+| [Structured Dialogue System for Mental Health: An LLM Chatbot Leveraging the PM+ Guidelines](https://arxiv.org/abs/2411.10681) | ICSR | 2024-11 |
+| [PIRTRE-C: A Two-Stage Retrieval and Reranking Enhanced Framework for Improving Chinese Psychological Counseling](https://ieeexplore.ieee.org/document/10803443) | MedAI | 2024-11 |
+| [EHDChat: A Knowledge-Grounded, Empathy-Enhanced Language Model for Healthcare Interactions](https://aclanthology.org/2024.sicon-1.10/) | SICon &#124; WS | 2024-11 |
+| [Towards Context-Aware Sensing and Personalized Interventions for Mental Health](https://ieeexplore.ieee.org/document/10970315) | ACIIW | 2024-09 |
+| [ESCoT: Towards Interpretable Emotional Support Dialogue Systems](https://aclanthology.org/2024.acl-long.723/) | ACL | 2024-08 |
+| [HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy](https://aclanthology.org/2024.acl-long.93/) | ACL | 2024-08 |
+| [Self-chats from Large Language Models Make Small Emotional Support Chatbot Better](https://aclanthology.org/2024.acl-long.611/) | ACL | 2024-08 |
+| [EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot](https://aclanthology.org/2024.acl-demos.7/) | ACL | 2024-08 |
+| [Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction](https://aclanthology.org/2024.acl-long.801/) | ACL | 2024-08 |
+| [Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors](https://aclanthology.org/2024.acl-long.227/) | ACL | 2024-08 |
+| [Cause-Aware Empathetic Response Generation via Chain-of-Thought Fine-Tuning](https://arxiv.org/abs/2408.11599) | arXiv | 2024-08 |
+| [The creative psychometric item generator: a framework for item generation and validation using large language models](https://arxiv.org/abs/2409.00202) | CREAI | 2024-08 |
+| [Facilitating Self-Guided Mental Health Interventions Through Human-Language Model Interaction: A Case Study of Cognitive Restructuring](https://dl.acm.org/doi/full/10.1145/3613904.3642761) | CHI | 2024-05 |
+| [PsyChat: A Client-Centric Dialogue System for Mental Health Support](https://ieeexplore.ieee.org/document/10580641) | CSCWD | 2024-05 |
+| [CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering](https://aclanthology.org/2024.lrec-main.261/) | LREC &#124; COLING | 2024-05 |
+| [Towards Safety and Helpfulness Balanced Responses via Controllable Large Language Models](https://arxiv.org/abs/2404.01295) | arXiv | 2024-04 |
+| [Polaris: A Safety-focused LLM Constellation Architecture for Healthcare](https://arxiv.org/abs/2403.13313) | arXiv | 2024-03 |
+| [COCOA: CBT-based Conversational Counseling Agent using Memory Specialized in Cognitive Distortions and Dynamic Prompt](https://arxiv.org/abs/2402.17546) | arXiv | 2024-02 |
+| [Feasibility of combining spatial computing and AI for mental health support in anxiety and depression](https://www.nature.com/articles/s41746-024-01011-0) | npj Digital Medicine | 2024-01 |
+| [SoulChat: Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations](https://aclanthology.org/2023.findings-emnlp.83/) | EMNLP Findings | 2023-12 |
+| [Harnessing the Power of Large Language Models for Empathetic Response Generation: Empirical Investigations and Improvements](https://aclanthology.org/2023.findings-emnlp.433/) | EMNLP Findings | 2023-12 |
+| [A New Dialogue Response Generation Agent for Large Language Models by Asking Questions to Detect User's Intentions](https://arxiv.org/abs/2310.03293) | arXiv | 2023-10 |
+| [An Open-Domain Avatar Chatbot by Exploiting a Large Language Model](https://aclanthology.org/2023.sigdial-1.40/) | SIGDIAL | 2023-09 |
+| [Cognitive reframing of negative thoughts through human-language model interaction](https://aclanthology.org/2023.acl-long.555/) | ACL | 2023-07 |
+| [Human–AI collaboration enables more empathic conversations in text-based peer-to-peer mental health support](https://www.nature.com/articles/s42256-022-00593-2) | Nature Machine Intelligence | 2023-01 |
 
 ## Datasets of Tasks
 ### Classification Datasets
