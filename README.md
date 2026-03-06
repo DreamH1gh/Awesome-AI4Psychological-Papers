@@ -86,6 +86,7 @@ Classification and regression tasks in psychological computing share common enco
 | [Less but Better: Parameter-Efficient Fine-Tuning of Large Language Models for Personality Detection](https://ieeexplore.ieee.org/document/11228339) | IJCNN | 2025-07 |
 | [Leveraging large language models for automated depression screening](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000943) | PLOS Digital Health | 2025-07 |
 | [Interpretable Depression Detection from Social Media Text Using LLM-Derived Embeddings](https://arxiv.org/abs/2506.06616) | BHI | 2025-06 |
+| [ProMind-LLM: Proactive Mental Health Care via Causal Reasoning with Sensor Data](https://arxiv.org/abs/2505.14038) | arXiv | 2025-05 |
 | [Systematic Evaluation of Machine-Generated Reasoning and PHQ-9 Labeling for Depression Detection Using Large Language Models](https://arxiv.org/abs/2505.17119) | arXiv | 2025-05 |
 | [A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG](https://aclanthology.org/2025.clpsych-1.14/) | CLPsych &#124; WS | 2025-05 |
 | [ExDoRA: enhancing the transferability of large language models for depression detection using free-text explanations](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1564828/full) | Frontiers in Artificial Intelligence | 2025-05 |
