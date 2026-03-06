@@ -171,6 +171,7 @@ Classification and regression tasks in psychological computing share common enco
 | [Artificial Intelligence in Mental Health Care: The T5 Chatbot Project](https://arxiv.org/abs/1909.03193) | SNAMS | 2024-12 |
 | [Dynamic Demonstration Retrieval and Cognitive Understanding for Emotional Support Conversation](https://arxiv.org/abs/2404.02505) | SIGIR | 2024-04 |
 | [PAL: Persona-Augmented Emotional Support Conversation Generation](https://aclanthology.org/2023.findings-acl.34/) | ACL Findings | 2023-07 |
+| [Improving Empathetic Dialogue Generation by Dynamically Infusing Commonsense Knowledge](https://aclanthology.org/2023.findings-acl.498/) | ACL Findings | 2023-07 |
 | [Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling](https://dl.acm.org/doi/abs/10.1145/3543507.3583380) | WWW | 2023-04 |
 | [Improving mental health support response generation with event-based knowledge graph](https://knowledge-nlp.github.io/aaai2023/papers/006-MHKG-oral.pdf) | psychotherapy | 2023-02 |
 | [TransESC: Smoothing Emotional Support Conversation via Turn-Level State Transition](https://aclanthology.org/2023.findings-acl.420/) | ACL Findings | 2023-07 |
