@@ -172,6 +172,7 @@ Classification and regression tasks in psychological computing share common enco
 | [PAL: Persona-Augmented Emotional Support Conversation Generation](https://aclanthology.org/2023.findings-acl.34/) | ACL Findings | 2023-07 |
 | [Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling](https://dl.acm.org/doi/abs/10.1145/3543507.3583380) | WWW | 2023-04 |
 | [Improving mental health support response generation with event-based knowledge graph](https://knowledge-nlp.github.io/aaai2023/papers/006-MHKG-oral.pdf) | psychotherapy | 2023-02 |
+| [TransESC: Smoothing Emotional Support Conversation via Turn-Level State Transition](https://aclanthology.org/2023.findings-acl.420/) | ACL Findings | 2023-07 |
 | [Knowledge Enhanced Reflection Generation for Counseling Dialogues](https://aclanthology.org/2022.acl-long.221/) | ACL | 2022-05 |
 | [Conversational Bots for Psychotherapy: A Study of Generative Transformer Models Using Domain-specific Dialogues](https://aclanthology.org/2022.bionlp-1.27/) | BioNLP | 2022-05 |
 | [Mental health question and answering system based on Bert model and knowledge graph technology](https://dl.acm.org/doi/10.1145/3500931.3501011) | ISAIMS | 2021-12 |
