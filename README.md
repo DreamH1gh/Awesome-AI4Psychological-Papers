@@ -280,10 +280,12 @@ Classification and regression tasks in psychological computing share common enco
 | [Nguyen et al.(2018)](https://dl.acm.org/doi/10.1007/s10796-017-9782-y) | Personality | 1,635 participants | - |
 | [Newsfullness](https://www.sciencedirect.com/science/article/pii/S0950705120304354) | Personality | 1,580 participants | - |
 | [Stachl et al.(2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7395458/#s4) | Personality | 624 participants | [html](https://osf.io/kqjhr/overview) |
-| [Polzehl et al.(2010)](https://ieeexplore.ieee.org/document/5628942) | Personality | 220 audio samples | - | 
+| [Polzehl et al.(2010)](https://ieeexplore.ieee.org/document/5628942) | Personality | 220 audio samples | - |
+| [Shui et al.(2023)](https://ieeexplore.ieee.org/document/10064124) | Personality | 80 participants | [html](https://ieee-dataport.org/documents/personality-daily-life-multi-situational-physiological-signals-reflect-big-five)|
 | [UESTC](https://www.sciencedirect.com/science/article/abs/pii/S1053811918307365) | Temperaments | 360 participants | - |
 | [StudentLife](https://dl.acm.org/doi/abs/10.1145/2632048.2632054) | Depression | 48 participants | [html](https://studentlife.cs.dartmouth.edu/) |
 | [Saeb et al.(2015)](https://www.jmir.org/2015/7/e175) | Depression | 28 participants | - |
+| [Canzian et al.(2015)](https://dl.acm.org/doi/epdf/10.1145/2750858.2805845) | Depression | 28 participants | - |
 | [Arevian et al.(2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225695) | Mental health | 1,101 audio samples | - |
 | [PsyVoiD](https://ieeexplore.ieee.org/abstract/document/9630833) | Affect recognition | 109 participants | [html](https://datashare.ed.ac.uk/handle/10283/8553) | 
 | [DepreST](https://www.sciencedirect.com/science/article/pii/S2772442522000375) | Depression | 440 participants | [github](https://github.com/mltlachac/DepreST-CAT) | 
