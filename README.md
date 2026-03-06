@@ -262,7 +262,6 @@ Classification and regression tasks in psychological computing share common enco
 ## Datasets of Tasks
 
 ### Classification Datasets
-<p align="center">
     
 | Dataset |  Domain  |   Size  | Link | 
 |:--------:|:--------:|:--------:| :--------:|
@@ -301,10 +300,9 @@ Classification and regression tasks in psychological computing share common enco
 | [Lo et al.(2004)](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/j.1467-8535.2005.00437.x) | Learning style | 121 participants | - |
 | [García et al.(2007)](https://www.sciencedirect.com/science/article/abs/pii/S0360131505001788) | Learning style | 27 participants | - |
 | [Wu et al.(2008)](https://www.sciencedirect.com/science/article/abs/pii/S0957417407000619?via%3Dihub)| Learning disabilities | 284 participants | - |
-</p>
+
 
 ### Regression Dataset
-<p align="center">
     
 | Dataset |  Domain  |   Size  | Link | 
 |:--------:|:--------:|:--------:| :--------:|
@@ -345,5 +343,4 @@ Classification and regression tasks in psychological computing share common enco
 | [Tasnim et al.(2024)](https://ieeexplore.ieee.org/abstract/document/10446567) | Depression, Anxiety, Stress | 1,049 audio samples | - | 
 | [Shawna L. Palmer et al.(2013)](https://ascopubs.org/doi/10.1200/JCO.2012.47.4775) | Working Memory | 126 participants | - |
 | [Rykov et al.(2024)](https://link.springer.com/article/10.1186/s12916-024-03252-y#availability-of-data-and-materials) | Cognitive | 17 participants | - |
-</p>
 
