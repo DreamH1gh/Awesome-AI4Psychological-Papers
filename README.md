@@ -288,6 +288,6 @@ Classification and regression tasks in psychological computing share common enco
 | [College Experience Study dataset](https://dl.acm.org/doi/abs/10.1145/3643501) | Mental health | 215 participants | [kaggle](https://www.kaggle.com/datasets/subigyanepal/college-experience-dataset) |
 | [Tasnim et al.(2024)](https://ieeexplore.ieee.org/abstract/document/10446567) | Depression, Anxiety, Stress | 1,049 audio samples | - | 
 | [Shawna L. Palmer et al.(2013)](https://ascopubs.org/doi/10.1200/JCO.2012.47.4775) | Working Memory | 126 participants | - |
-| [Rykov et al.](https://link.springer.com/article/10.1186/s12916-024-03252-y#availability-of-data-and-materials) | Cognitive | 17 participants | - |
+| [Rykov et al.(2024)](https://link.springer.com/article/10.1186/s12916-024-03252-y#availability-of-data-and-materials) | Cognitive | 17 participants | - |
 </p>
 
