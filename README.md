@@ -302,7 +302,7 @@ Classification and regression tasks in psychological computing share common enco
 | [Wu et al.(2008)](https://www.sciencedirect.com/science/article/abs/pii/S0957417407000619?via%3Dihub)| Learning disabilities | 284 participants | - |
 
 
-### Regression Dataset
+### Regression Datasets
     
 | Dataset |  Domain  |   Size  | Link | 
 |:--------:|:--------:|:--------:| :--------:|
