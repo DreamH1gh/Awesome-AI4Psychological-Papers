@@ -367,8 +367,7 @@ Classification and regression tasks in psychological computing share common enco
 | [Counselchat](https://medium.com/data-science/counsel-chat-bootstrapping-high-quality-therapy-data-971b419f33da) | Suicide prevention chat | 2,775 samples | [github](https://github.com/nbertagnolli/counsel-chat) |
 | [Medeiros et al.(2018)](https://link.springer.com/chapter/10.1007/978-3-319-94779-2_18#Fn1) | Emotional support chat | around 10,000 tweets | [html](https://mlab.com/databases/collected_data_from_twitter) |
 | [ESConv](https://aclanthology.org/2021.acl-long.269/) | Emotional support chat | 1,053 dialogues | [github](https://github.com/thu-coai/Emotional-Support-Conversation) |
-| [PsyQA](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2021.findings-acl.130.pdf
-) | Emotional support chat | 22,346 questions | [github](https://github.com/thu-coai/PsyQA) |
+| [PsyQA](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2021.findings-acl.130.pdf) | Emotional support chat | 22,346 questions | [github](https://github.com/thu-coai/PsyQA) |
 | [Psych8k](https://arxiv.org/abs/2309.15461) | Emotional support chat | 8,187 QA pairs | [huggingface](https://huggingface.co/datasets/EmoCareAI/Psych8k) |
 | [Denecke et al.(2021)](https://ieeexplore.ieee.org/document/9000924) | Emotional support chat | 21 participants | - |
 | [ESCoT](https://aclanthology.org/2024.findings-emnlp.34.pdf) | Emotional support chat | 1,708 dialogues | [github](https://github.com/TeigenZhang/ESCoT) |
@@ -377,9 +376,7 @@ Classification and regression tasks in psychological computing share common enco
 | [MentalChat16K](https://pmc.ncbi.nlm.nih.gov/articles/PMC12520247/) | Emotional support chat | about 16,000 QA pairs | [huggingface](https://huggingface.co/datasets/ShenLab/MentalChat16K) |
 | [SNAP](https://aclanthology.org/Q16-1033.pdf) | Counselling conversations | 80,885 dialogues| [html](https://snap.stanford.edu/counseling/) |
 | [HOPE](https://arxiv.org/pdf/2111.06647) | Counselling conversations | 212 dialogues | [github](https://github.com/LCS2-IIITD/SPARTA_WSDM2022) | 
-| [AugESC](https://aclanthology.org/2023.findings-acl.99/
-) | Empathic response | 65K dialogues | [github](https://github.com/thu-coai/Emotional-Support-Conversation
-) |
+| [AugESC](https://aclanthology.org/2023.findings-acl.99/) | Empathic response | 65K dialogues | [github](https://github.com/thu-coai/Emotional-Support-Conversation) |
 | [SoulChat](https://aclanthology.org/2023.findings-emnlp.83/) | Counselling conversations | 2.3M samples | [modelscope](https://www.modelscope.cn/datasets/YIRONGCHEN/SoulChatCorpus) |
 | [CPsyCounD](https://aclanthology.org/2024.findings-acl.830/) | Counselling conversations | 3,134 dialogues | [github](https://github.com/CAS-SIAT-XinHai/CPsyCoun)|
 | [SimPsyDial](https://www.semanticscholar.org/paper/Interactive-Agents%3A-Simulating-Counselor-Client-via-Qiu-Lan/f70592c867055b2e356497219d8dded5eb039209) | Counselling conversations | 1,000 dialogues | [github](https://github.com/qiuhuachuan/interactive-agents) |
@@ -388,6 +385,6 @@ Classification and regression tasks in psychological computing share common enco
 | [KMI](https://aclanthology.org/2025.naacl-long.541.pdf) | Motivational interviewing | 1,000 dialogues | [github](https://github.com/hjkim811/KMI) |
 | [Psy-Insigh](https://arxiv.org/pdf/2503.03607) | Mental Health Counseling | Mental Health Counselling | 951 dialogues | [github](https://github.com/ckqqqq/Psy-Insight/tree/main) |
 | [OpenR1-Psy](https://arxiv.org/pdf/2505.15715) | Mental health counseling | 19,302 dialogues | [github](https://github.com/Emo-gml/PsyLLM?tab=readme-ov-file#-dataset) |
-| [KokoroChat](https://arxiv.org/abs/2506.01357) | Counselling conversations | 6,589 dialogues | [github](https://github.com/UEC-InabaLab/KokoroChat|
+| [KokoroChat](https://arxiv.org/abs/2506.01357) | Counselling conversations | 6,589 dialogues | [github](https://github.com/UEC-InabaLab/KokoroChat) |
 | [PsyDial](https://aclanthology.org/2025.acl-long.1049.pdf) | Counselling conversations | 2,382 dialogues | [github](https://github.com/qiuhuachuan/PsyDial) |
 | [CPsDD](https://arxiv.org/pdf/2507.07509) |  Psychological support dialogues | 68,136 dialogues | - |
