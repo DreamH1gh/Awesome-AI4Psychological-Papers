@@ -300,6 +300,8 @@ Classification and regression tasks in psychological computing share common enco
 | [Lo et al.(2004)](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/j.1467-8535.2005.00437.x) | Learning style | 121 participants | - |
 | [García et al.(2007)](https://www.sciencedirect.com/science/article/abs/pii/S0360131505001788) | Learning style | 27 participants | - |
 | [Wu et al.(2008)](https://www.sciencedirect.com/science/article/abs/pii/S0957417407000619?via%3Dihub)| Learning disabilities | 284 participants | - |
+| [Msosa et al.(2023)](https://ieeexplore.ieee.org/document/10239317) | Suicide detection | 59,750 participants| - |
+| [Ding et al.(2023)](https://www.sciencedirect.com/science/article/pii/S016503272401855X) | Suicide detection | 81 audio samples | - |
 
 
 ### Regression Datasets
@@ -344,3 +346,14 @@ Classification and regression tasks in psychological computing share common enco
 | [Shawna L. Palmer et al.(2013)](https://ascopubs.org/doi/10.1200/JCO.2012.47.4775) | Working Memory | 126 participants | - |
 | [Rykov et al.(2024)](https://link.springer.com/article/10.1186/s12916-024-03252-y#availability-of-data-and-materials) | Cognitive | 17 participants | - |
 
+### Structure Dataset
+<p align="center">
+
+| Dataset |  Domain  |   Size  | Link | 
+|:--------:|:--------:|:--------:| :--------:|
+| [MySpace](https://link.springer.com/chapter/10.1007/978-3-319-43639-5_11) | Social network | 3,321 participants | - |
+| [Costantini et al.(2015)](https://www.sciencedirect.com/science/article/abs/pii/S0092656614000701) | Personality network | 964 participants | [download](https://ars.els-cdn.com/content/image/1-s2.0-S0092656614000701-mmc1.csv)
+| [Jin et al.(2017)](https://dl.acm.org/doi/epdf/10.1145/3132847.3132932) | Social network |  14.7M posts | [html](http://data.syr.edu/get/EmotionPatterns) |
+| [Marian et al.(2022)](https://www.sciencedirect.com/science/article/pii/S0191886921008333#s0030) | APD network | 1,072 participants | [html](https://www.psycharchives.org/en/item/9621f9e2-a9b0-41d3-9108-382063c21422) |
+| [Génois et al.(2023)](https://www.researchgate.net/publication/371397963_Combining_sensors_and_surveys_to_study_social_interactions_A_case_of_four_science_conferences) | Contact networks | 969 participants | [html](https://search.gesis.org/research_data/SDN-10.7802-2351?doi=10.7802/2351) | 
+| [Winter et al.(2025)](https://www.sciencedirect.com/science/article/pii/S2352340925003518#sec0001) |  Mental health trajectories |399 participants | [html](https://zenodo.org/records/15101756) |
