@@ -31,10 +31,37 @@ If you find our survey useful for your research, please cite the following paper
     - [Structured Relational Datasets](#structured-relational-datasets)
     - [Generative and Interactive Datasets](#generative-and-interactive-datasets)
 
+---
+
 # AI-driven Psychological Computing Tasks
 
+## Overview
+
+## Overview
+
+AI-driven psychological computing tasks are organized by **computational processing patterns** rather than application domains. As illustrated below, four fundamental task types are defined based on their output space structure and computational objectives.
+
+### Figure 3: Evolution of Psychology Methods
+
+> Conventional approaches rely on individual manual assessment by trained professionals. 
+> AI-driven methods complement these practices by enabling automated high-throughput assessment, 
+> precise quantification, multi-source data integration, and anytime-anywhere support.
+
+![Figure 3: Evolution of Psychology Methods](assets/overview_01.png)
+
+### Figure 4: AI-driven Psychology Task Computational Framework
+
+> The figure illustrates four main task categories with their corresponding input modalities, 
+> network architectures, and output types:
+> - **(a) Classification Tasks** — discrete psychological state identification
+> - **(b) Regression Tasks** — continuous psychological measurement  
+> - **(c) Structured Relational Tasks** — extracting psychological entities and relations
+> - **(d) Generative Interactive Tasks** — dynamic content creation and user engagement
+
+![Figure 4: Task Computational Framework](assets/task_formulate_01.png)
+
 ## Classification & Regression
-Classification and regression tasks in psychological computing share common encoding architectures but differ in their output formulations. Classification tasks map inputs to discrete psychological categories through softmax layers, while regression tasks predict continuous severity scores or trait measurements through linear output layers. Both benefit from similar feature extraction strategies and domain adaptation techniques.
+Classification and regression tasks in psychological computing share common encoding architectures but differ in their output formulations. **Classification tasks** map inputs to discrete psychological categories through softmax layers (e.g., identifying depression, anxiety, personality types, cognitive states), while **regression tasks** predict continuous severity scores or trait measurements through linear output layers (e.g., PHQ-9 scores, IQ estimates, emotional valence/arousal ratings). Both benefit from similar feature extraction strategies and domain adaptation techniques, processing multimodal inputs through specialized encoders for text (BERT, RoBERTa), vision (ViT, ResNet), and audio (Wav2Vec2, HuBERT).
 
 ### PLM-based Papers
 
@@ -127,6 +154,8 @@ Classification and regression tasks in psychological computing share common enco
 
 ## Structured Relational
 
+Structured relational tasks model complex psychological phenomena through structured outputs including **networks, graphs, sequences, and temporal patterns**. Unlike classification or regression tasks, these tasks capture relationships between entities, temporal dynamics across observations, and hierarchical organizations within psychological data. Outputs take the form of structured tuples `(entity₁, relation, entity₂)` that can construct symptom networks, social support graphs, knowledge graphs, or developmental timelines. Graph-based architectures (GNNs) and LLM-driven reasoning are the primary computational approaches.
+
 ### PLM-based Papers
 
 | Paper | Venue | Date |
@@ -160,6 +189,8 @@ Classification and regression tasks in psychological computing share common enco
 | [AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts](https://arxiv.org/abs/2404.11449) | arXiv | 2024-04 |
 
 ## Generative & Interactive
+
+Generative and interactive tasks create **personalized psychological content** through computational synthesis and dynamic engagement. These tasks span from single-turn content generation to sustained multi-turn conversational interactions, encompassing: **(1) Personalized Content Generation** — tailored therapeutic recommendations and educational materials; **(2) Psychological Service Interaction** — mental health support through sustained dialogue (counseling robots, emotional support, crisis intervention); **(3) Psychological Educational Interaction** — adaptive learning through intelligent tutoring systems, social skills training, and metacognitive scaffolding. The core computational mechanism is contextual response synthesis: `Yₜ = f(xₜ, hₜ₋₁)`, where outputs dynamically adapt to evolving user states.
 
 ### PLM-based Papers
 
@@ -260,6 +291,8 @@ Classification and regression tasks in psychological computing share common enco
 
 
 ## Datasets of Tasks
+
+> **Dataset Organization Framework:** Datasets are organized along a spectrum from controlled clinical environments to naturalistic ecological contexts, reflecting fundamental tradeoffs between annotation quality and ecological validity. Four categories are used: **(1) Clinical & Laboratory** — expert-validated labels, small samples (dozens to hundreds); **(2) Longitudinal Multi-Site** — repeated measurements over months/years, hundreds to tens of thousands of participants; **(3) Ecological & Naturalistic** — social media, smartphone sensors, wearables, thousands to millions of participants; **(4) Specialized & Task-Specific** — unique modality combinations for specific research questions.
 
 ### Classification Datasets
     
