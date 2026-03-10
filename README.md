@@ -3,14 +3,6 @@
 The organization of papers is discussed in our survey: <br>
 [From Pre-trained Models to Large Language Models: A Comprehensive Survey of AI-Driven Psychological Computing](https://www.baidu.com/). 
 
-If you find any relevant academic papers that have not been included in our research, please submit a request for an update. We welcome contributions from everyone.
-
-If any suggestions or mistakes, please feel free to let us know via email at **chenhy1018@gmail.com**. We appreciate your feedback and help in improving our work.
-
-If you find our survey useful for your research, please cite the following paper:
-
-    @article{
-    }
 
 ## 📒 Table of Contents
 ### 🤖 Tasks
@@ -419,3 +411,14 @@ Generative and interactive tasks create **personalized psychological content** t
 | [KokoroChat](https://arxiv.org/abs/2506.01357) | Counselling conversations | 6,589 dialogues | [github](https://github.com/UEC-InabaLab/KokoroChat) |
 | [PsyDial](https://aclanthology.org/2025.acl-long.1049.pdf) | Counselling conversations | 2,382 dialogues | [github](https://github.com/qiuhuachuan/PsyDial) |
 | [CPsDD](https://arxiv.org/pdf/2507.07509) |  Psychological support dialogues | 68,136 dialogues | - |
+
+---
+
+If you find any relevant academic papers that have not been included in our research, please submit a request for an update. We welcome contributions from everyone.
+
+If any suggestions or mistakes, please feel free to let us know via email at **chenhy1018@gmail.com**. We appreciate your feedback and help in improving our work.
+
+If you find our survey useful for your research, please cite the following paper:
+
+    @article{
+    }
