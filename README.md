@@ -389,6 +389,11 @@ Generative and interactive tasks create **personalized psychological content** t
 | [Marian et al.(2022)](https://www.sciencedirect.com/science/article/pii/S0191886921008333#s0030) | APD network | 1,072 participants | [html](https://www.psycharchives.org/en/item/9621f9e2-a9b0-41d3-9108-382063c21422) |
 | [Génois et al.(2023)](https://www.researchgate.net/publication/371397963_Combining_sensors_and_surveys_to_study_social_interactions_A_case_of_four_science_conferences) | Contact networks | 969 participants | [html](https://search.gesis.org/research_data/SDN-10.7802-2351?doi=10.7802/2351) | 
 | [Winter et al.(2025)](https://www.sciencedirect.com/science/article/pii/S2352340925003518#sec0001) |  Mental health trajectories |399 participants | [html](https://zenodo.org/records/15101756) |
+| [Suitner et al.(2022)](https://www.researchgate.net/publication/364322344_Trust_in_scientists_risk_perception_conspiratorial_beliefs_and_unrealistic_optimism_A_network_approach_to_investigating_the_psychological_underpinnings_of_COVID-19_vaccination_intentions#pf12) | Conspiratorial beliefs | 1896 participants | [html](https://psycharchives.org/en/item/336c8360-7663-41a1-a230-9992c8ffc131) |
+| [Aeby et al.(2014)](https://www.psycharchives.org/en/item/a98e04db-e17f-4be5-8e12-655f2bf25bd8) | Family network | 300 participants | - | 
+| [Jochemczyk at al.(2009)](https://www.psycharchives.org/en/item/247bae76-e851-48b4-9ce8-fb9ac94e226a) | Dynamical negotiation network | 38 participants | - |
+| [Berger et al.(1996)](https://www.psycharchives.org/en/item/b58446e4-9b4a-458c-892c-744c54f72c85) | Social Networks | 87 participants | - |
+| [Czarna et al.(2011)](https://www.psycharchives.org/en/item/baeda428-3dd5-4dff-ad16-6bd1e25b6b9b) | social network | 124 participants| - |
 
 ### Interaction Dataset
 <p align="center">
