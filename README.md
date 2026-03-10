@@ -406,25 +406,30 @@ Generative and interactive tasks create **personalized psychological content** t
 | [SmileChat](https://aclanthology.org/2024.findings-emnlp.34.pdf) | Emotional support chat | 55,165 sentences | [github](https://github.com/qiuhuachuan/smile) |
 | [ExTES](https://aclanthology.org/2024.acl-long.611.pdf) | Emotional support chat | 11,177 dialogues | [github](https://github.com/pandazzh2020/ExTES) |
 | [MentalChat16K](https://pmc.ncbi.nlm.nih.gov/articles/PMC12520247/) | Emotional support chat | about 16,000 QA pairs | [huggingface](https://huggingface.co/datasets/ShenLab/MentalChat16K) |
-| [SNAP](https://aclanthology.org/Q16-1033.pdf) | Counselling conversations | 80,885 dialogues| [html](https://snap.stanford.edu/counseling/) |
-| [HOPE](https://arxiv.org/pdf/2111.06647) | Counselling conversations | 212 dialogues | [github](https://github.com/LCS2-IIITD/SPARTA_WSDM2022) | 
 | [AugESC](https://aclanthology.org/2023.findings-acl.99/) | Empathic response | 65K dialogues | [github](https://github.com/thu-coai/Emotional-Support-Conversation) |
 | [MESC](https://ieeexplore.ieee.org/document/11146689) | Empathic response | 1,019 dialogues | [github](https://github.com/chuyq/MESC) |
-| [SoulChat](https://aclanthology.org/2023.findings-emnlp.83/) | Counselling conversations | 2.3M samples | [modelscope](https://www.modelscope.cn/datasets/YIRONGCHEN/SoulChatCorpus) |
-| [CPsyCounD](https://aclanthology.org/2024.findings-acl.830/) | Counselling conversations | 3,134 dialogues | [github](https://github.com/CAS-SIAT-XinHai/CPsyCoun)|
-| [SimPsyDial](https://www.semanticscholar.org/paper/Interactive-Agents%3A-Simulating-Counselor-Client-via-Qiu-Lan/f70592c867055b2e356497219d8dded5eb039209) | Counselling conversations | 1,000 dialogues | [github](https://github.com/qiuhuachuan/interactive-agents) |
-| [PsyDTCorpus](https://aclanthology.org/2025.acl-long.55.pdf) | 5,000 dialogues | Personalized counsel| [github](https://github.com/scutcyr/SoulChat2.0) |
-| [STAMPsy](https://arxiv.org/abs/2412.16674) | Counselling conversations | 5,006 dialogues | [github](https://github.com/JOY-SWang/STAMPsy) | 
-| [KMI](https://aclanthology.org/2025.naacl-long.541.pdf) | Motivational interviewing | 1,000 dialogues | [github](https://github.com/hjkim811/KMI) |
-| [Psy-Insigh](https://arxiv.org/pdf/2503.03607) | Mental Health Counseling | Mental Health Counselling | 951 dialogues | [github](https://github.com/ckqqqq/Psy-Insight/tree/main) |
-| [OpenR1-Psy](https://arxiv.org/pdf/2505.15715) | Mental health counseling | 19,302 dialogues | [github](https://github.com/Emo-gml/PsyLLM?tab=readme-ov-file#-dataset) |
-| [KokoroChat](https://arxiv.org/abs/2506.01357) | Counselling conversations | 6,589 dialogues | [github](https://github.com/UEC-InabaLab/KokoroChat) |
-| [PsyDial](https://aclanthology.org/2025.acl-long.1049.pdf) | Counselling conversations | 2,382 dialogues | [github](https://github.com/qiuhuachuan/PsyDial) |
-| [CPsDD](https://arxiv.org/pdf/2507.07509) |  Psychological support dialogues | 68,136 dialogues | - |
-| [MEDIC](https://arxiv.org/pdf/2305.02842) | Counselling conversations | 771 dialogues | [github](https://ustc-ac.github.io/datasets/medic/) |
-| [CACTUS](https://arxiv.org/abs/2407.03103) | Counselling conversations | 31,577 dialogues | [github](https://github.com/coding-groot/cactus) |
-| [Mandal et al.(2025)](https://arxiv.org/pdf/2509.04183) |  Mental Health Counseling | 18,000 dialogues |[github](https://github.com/UKPLab/arxiv2025-MAGneT) |
+| [SNAP](https://aclanthology.org/Q16-1033.pdf) | Counseling conversations | 80,885 dialogues| [html](https://snap.stanford.edu/counseling/) |
+| [HOPE](https://arxiv.org/pdf/2111.06647) | Counseling conversations | 212 dialogues | [github](https://github.com/LCS2-IIITD/SPARTA_WSDM2022) | 
+| [SoulChat](https://aclanthology.org/2023.findings-emnlp.83/) | Counseling conversations | 2.3M samples | [modelscope](https://www.modelscope.cn/datasets/YIRONGCHEN/SoulChatCorpus) |
+| [CPsyCounD](https://aclanthology.org/2024.findings-acl.830/) | Counseling conversations | 3,134 dialogues | [github](https://github.com/CAS-SIAT-XinHai/CPsyCoun)|
+| [SimPsyDial](https://www.semanticscholar.org/paper/Interactive-Agents%3A-Simulating-Counselor-Client-via-Qiu-Lan/f70592c867055b2e356497219d8dded5eb039209) | Counseling conversations | 1,000 dialogues | [github](https://github.com/qiuhuachuan/interactive-agents) |
+| [STAMPsy](https://arxiv.org/abs/2412.16674) | Counseling conversations | 5,006 dialogues | [github](https://github.com/JOY-SWang/STAMPsy) | 
+| [KokoroChat](https://arxiv.org/abs/2506.01357) | Counseling conversations | 6,589 dialogues | [github](https://github.com/UEC-InabaLab/KokoroChat) |
+| [PsyDial](https://aclanthology.org/2025.acl-long.1049.pdf) | Counseling conversations | 2,382 dialogues | [github](https://github.com/qiuhuachuan/PsyDial) |
+| [MEDIC](https://arxiv.org/pdf/2305.02842) | Counseling conversations | 771 dialogues | [github](https://ustc-ac.github.io/datasets/medic/) |
+| [MusPsy](https://arxiv.org/pdf/2506.06626) | Counseling conversations | 1,400 counselings | - |
+| [CACTUS](https://arxiv.org/abs/2407.03103) | Counseling conversations | 31,577 dialogues | [github](https://github.com/coding-groot/cactus) |
 | [cPsychQASet](https://dl.acm.org/doi/pdf/10.1145/3676962) | CBT-based psychological counseling | about 89,000 QA pairs| [github](https://github.com/slptongji/PsyChatbot) |
+| [DiaCBT](https://arxiv.org/pdf/2509.02999) |  CBT-based psychological counseling | 108 cases | - | 
+| [RealCBT](https://arxiv.org/abs/2508.20764) | CBT-based psychological counseling | 76 dialogues | [gitlab](https://gitlab.com/xiaoyi.wang/realcbt-dataset) | 
+| [MIRROR](https://aclanthology.org/2025.emnlp-main.751v2.pdf) | CBT-based psychological counseling | 3,073 dialogues | [github](https://github.com/nobel-postech/mirror) | 
+| [PsyDTCorpus](https://aclanthology.org/2025.acl-long.55.pdf) | Personalized counsel | 5,000 dialogues | [github](https://github.com/scutcyr/SoulChat2.0) |
+| [CPsDD](https://arxiv.org/pdf/2507.07509) |  Psychological support dialogues | 68,136 dialogues | - |
+| [KMI](https://aclanthology.org/2025.naacl-long.541.pdf) | Motivational interviewing | 1,000 dialogues | [github](https://github.com/hjkim811/KMI) |
+| [Psy-Insigh](https://arxiv.org/pdf/2503.03607) | Mental Health Counseling | 951 dialogues | [github](https://github.com/ckqqqq/Psy-Insight/tree/main) |
+| [OpenR1-Psy](https://arxiv.org/pdf/2505.15715) | Mental health counseling | 19,302 dialogues | [github](https://github.com/Emo-gml/PsyLLM?tab=readme-ov-file#-dataset) |
+| [HamRaz](https://arxiv.org/pdf/2502.05982) | Mental health counseling | 4,000 questions | - |
+| [Mandal et al.(2025)](https://arxiv.org/pdf/2509.04183) |  Mental health counseling | 18,000 dialogues |[github](https://github.com/UKPLab/arxiv2025-MAGneT) |
 | [HamRaz](https://arxiv.org/pdf/2502.05982) | Mental health counseling | 4,000 questions | - |
 | [MusPsy](https://arxiv.org/pdf/2506.06626) | Counselling conversations | 1,400 counselings | - |
 | [DiaCBT](https://arxiv.org/pdf/2509.02999) |  CBT-based psychological counseling | 108 cases | - | 
