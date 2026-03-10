@@ -37,8 +37,6 @@ If you find our survey useful for your research, please cite the following paper
 
 ## Overview
 
-## Overview
-
 AI-driven psychological computing tasks are organized by **computational processing patterns** rather than application domains. As illustrated below, four fundamental task types are defined based on their output space structure and computational objectives.
 
 ### Figure 3: Evolution of Psychology Methods
