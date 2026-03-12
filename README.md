@@ -299,7 +299,6 @@ Generative and interactive tasks create **personalized psychological content** t
 |:--------:|:--------:|:--------:| :--------:|
 | [Turkish Audio-Visual Bipolar Disorder corpus](https://ieeexplore.ieee.org/abstract/document/8470362)| Bipolar disorder | 352 vedios | [github](https://github.com/DreamH1gh/Awesome-AI4Psychological-Papers/edit/main/README.md) |
 | [Tsanas et al.(2016)](https://pubmed.ncbi.nlm.nih.gov/27449555/) | Bipolar disorder | 130 participants | - |
-
 | [Jacobson et al.(2021) ](https://pubmed.ncbi.nlm.nih.gov/35030442/) | Anxiety disorders | 32 participants | - |
 | [PsySym](https://aclanthology.org/2022.emnlp-main.677.pdf) | Multi-disease | 8,554  sentences | [github](https://github.com/blmoistawinde/EMNLP22-PsySym) |
 | [SMHD](https://aclanthology.org/C18-1126/) | Multi-disease | 20,406 participants | [html](https://ir.cs.georgetown.edu/resources/smhd.html) |
@@ -309,8 +308,6 @@ Generative and interactive tasks create **personalized psychological content** t
 | [PANDORA](https://aclanthology.org/2021.socialnlp-1.12/) | Personality | 10,288 participants | [html](https://aimagelab.ing.unimore.it/pandora/) |
 | [Han et al.(2020)](https://www.sciencedirect.com/science/article/pii/S0950705120300459) | Personality | 400 participants | - |
 | [Gómez-Zaragozá et al.(2023)](https://ieeexplore.ieee.org/document/10214624)  | Attachment styles | 199 participants | - |
-
-
 | [Wang et al.(2021)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2786292)| Cognitive decline | 4950 sections | - |
 | [ADHD-200](https://www.sciencedirect.com/science/article/pii/S105381191630283X) | ADHD subtype | 973 individuals | [html](https://fcon_1000.projects.nitrc.org/indi/adhd200/) |
 | [AIBL](https://aibl.org.au/) | AD Progression | 1,112 participants | [html](https://www.aibl.csiro.au/adni/index.html) |
@@ -320,7 +317,6 @@ Generative and interactive tasks create **personalized psychological content** t
 | [EATD](https://ieeexplore.ieee.org/abstract/document/9746569) | Depression | 162 participants | [github](https://github.com/speechandlanguageprocessing/ICASSP2022-Depression) | 
 | [CLPsych 2015](https://aclanthology.org/W15-1204.pdf) | Depression | 1,746 participants | [github](https://github.com/clpsych/shared_task) |
 | [RSDD](https://aclanthology.org/D17-1322.pdf) | Depression | 116,484 participants |[html](https://ir.cs.georgetown.edu/resources/rsdd.html) |
-
 | [Nikhileswar et al.(2021)](https://ieeexplore.ieee.org/document/9591887)| Suicide, depression | 232k posts| [kaggle](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch) | 
 | [DAIC](http://www.lrec-conf.org/proceedings/lrec2014/pdf/508_Paper.pdf) | Distress | 621 interviews | [html](https://dcapswoz.ict.usc.edu/) |
 | [GLOBEM](https://physionet.org/content/globem/1.1/) | Depression, anxiety | 705 participants  | [html](https://the-globem.github.io/datasets/overview) |
