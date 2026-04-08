@@ -9,7 +9,14 @@ If any suggestions or mistakes, please feel free to let us know via email at **c
 
 If you find our survey useful for your research, please cite the following paper:
 
-    @article{
+    @misc{chen2026pretrainedmodelslargelanguage,
+          title={From Pre-trained Models to Large Language Models: A Comprehensive Survey of AI-Driven Psychological Computing}, 
+          author={Huiyao Chen and Ruimeng Liu and Yan Luo and Jiawen Zhang and Meishan Zhang and Baotian Hu and Min Zhang},
+          year={2026},
+          eprint={2604.03259},
+          archivePrefix={arXiv},
+          primaryClass={cs.CY},
+          url={https://arxiv.org/abs/2604.03259}, 
     }
 
 
